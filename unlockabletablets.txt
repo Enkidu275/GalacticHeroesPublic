@@ -331,7 +331,7 @@ Voltage signals from the iterations would be used to determine alignment, as wel
 The system would also map out various sensor locations, and replace them with access to mechanical inputs and outputs.
 The end result would upload a namespace document of the human as an executable to servers across the universe.
 By means of fault tolerance, the human's memories would be perfectly preserved and executed indefinitely.
-"I got the idea when I was sending out a multicast API, and realized the URL ending was An." (*)
+"I got the idea when I was sending out a multicast API, and realized the URL ending was An." (𒀭)
 The entrypoint was to be set in Innana's Temple, with Erishkigal by Innana's side.
 Erishkigal, herself, volunteered to be its first test subject. And so, Innana punched her light into the sheet.
 A few minutes passed, and then the Annunaki heard a voice from the terminal.
@@ -1494,16 +1494,16 @@ The Annunaki were greatly interested in this, and wanted to know what he had mea
 "He had connected the hallways, closing off the exposure to the planet surfaces themselves, except for the end-nodes."
 "In between those corridors, he had placed square rooms made to look like those containing the tablets."
 "The only differences you would see being the lack of any tablet, an entrance, two exits, and the word 'And' inscribed on the floor. I couldn't figure out what it meant."
-Gilib thought for a second, and then responded, "It's a boolean riddle."
+Enki thought for a second, and then responded, "It's a boolean riddle."
 "A boolean riddle?"
 "Yes. If you're trying to combine multiple boolean statements, the matter is resolved as soon as you hit the first falsehood."
 "If A is true, and B is true, but C is false, then D need not be considered, as they must all be true for an And-conjecture to be correct."
 "Each end node in the line of planets is supposed to represent a falsehood. One of the final end nodes is the true planet."
 Enlil suddenly seemed enraged, but calmed down and told Gilib. "Nergal built a volcanic, scorching hell with a skull-throne on one of the final end nodes."
 "This shouldn't seem surprising at all, but Nergal had seemingly been wasting my time, so that Gilgamesh could amass more followers."
-"And, just out of curiosity, is that galaxy you built right behind you, Enlil?" asked Innana.
+Innana interjected; "And, just out of curiosity, is that galaxy you built right behind you, Enlil?"
 Enlil turned around, and was stunned.
-In the distance, they could see the word "Truth". It was the size of an entire galaxy. The planets were spinning around one another, in sometimes alternating directions, at constant intervals.
+In the distance, they could see the word "𒀽" (truth). It was the size of an entire galaxy. The planets were spinning around one another, in sometimes alternating directions, at constant intervals.
 The final planet was fuming out a wall of fire into the void, leaving behind a trail of smoke that left the outline of the word the Annunaki were seeing.
 Nergal had built a clockwork-galaxy so phenomenally-precise, even Enki couldn't believe it, though he could manage a Fourier transformation.
 The Annunaki were stunned, but then Gilib beckoned them, "Well, this is his invitation for us to see whatever it is he's been doing."
