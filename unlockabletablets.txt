@@ -1682,6 +1682,7 @@ Gilib didn't need to understand all of Nergal's motivations, but was greatly int
 He ventured out to Nergal's domain. There, he found Nergal, Shamhat, and Gilgamesh assembling what looked like a tank.
 Shamhat explained "This is a column-treader. It can attach itself to Enlil's columns using pointed barbs, and drive along it, gate or not."
 Nergal explained "We can have demons materialize from the void with it, after a set period of time, whose minds will be linked as soon as they're released."
+"They also self-destruct in case they ever fail and become detached from the column."
 Gilib had no issue understanding it, but inquired as to those faithful cycles of the Universe.
 "I suppose that could be useful information to you, even in these test cycles, so I will elaborate to the best of my ability" responded Nergal.
 "In the faith-based cycles, Dumuzid experiments with the concepts of faith, itself, creating versions that will be most effective in guiding the humans."
