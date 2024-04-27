@@ -110,7 +110,7 @@ Amar-Suen turned back to Tiamat and requested, "This is a little awkward, but I 
 "And I don't really want to get it in the crown. May I take a bath, first?" The boyars broke out in laughter.
 Tiamat sighed and said, "Sure. You can go back to your bath. But we'd love to have a picture of you before you leave."
 
-Tablet ?:
+Tablet ?: L33T HACK0R
 Amar-Suen emerged from the bath, wearing the crown. Tiamat wasted little time. She explained the crown, and gave him a tablet.
 "Your crown can be remotely-detonated. We also have a timer that will go off, should you manage to break the signal."
 "These are the declarations you will be making when you return home. Obviously, we'll start with you removing the debt."
@@ -122,7 +122,7 @@ Shulgi and Simti weren't entirely certain of what he had done in the bath, and T
 Nonetheless, a broadcast was made by Amar-Suen himself, and it was presented as a livestream.
 Amar-Suen announced that the debt was to be ended. His timer was extended by Tiamat.
 Shulgi began to wonder, "What is he doing? Didn't he swap out a crown in the bath?"
-A few weeks passed, and another broadcast came. But this time, it was different.
+A few weeks passed, and another broadcast came. But this time, it was different. He was in his bath with cute attendants.
 Tiamat was now struggling to connect to the device. There was no signal.
 "My dear friends in Sumer. I'm afraid I've come to a terrible realization."
 Tiamat immediately attempted to detonate the crown, but nothing happened. "Did he not understand the timer?" she began to panic.
@@ -142,8 +142,8 @@ Suddenly, a gunshot rang out. Blood splurted out of Apsu's mouth. Ibbi-sin had a
 "Boyars, friends, I'm sorry that this terrible outcome has happened. But your time here is up. We have carriages to help in your exile."
 "And now, thanks to Apsu, we have the API-calls sent out, that will later be used to disengage Amar-Suen's crown."
 "I'm willing to bet that there's no time-related API header, since you really, really want that type of message to make it."
-"And since you'd want the message to follow confusing and convoluted routes."
-"Believe it or not, human frailties are easier to exploit than mechanical ones. The carriages are mechanical."
-"You're welcome. Now fuck off and never return."
+"And since you'd want the message to follow confusing and convoluted routes. But even if not, we'll send out a signal."
+"Believe it or not, human frailties are easier to exploit than mechanical ones. The carriages won't detonate unless we want them to."
+"You're welcome. Now fuck off and never return. If, and when, we need administrative permissions, you'd do well to respond."
 Later on, Apsu asked Ibbi-sin why Amar-Suen went to the bath. Ibbi-sin responded, "Oh, that? Exactly what he said, dad."
-"You're a cripple. And you shared a bath with him. He knew he'd have to wear the crown for weeks on end."
+"You're a cripple. And you shared a bath with him. He knew he'd have to wear the crown for weeks on end. He's also a Lagashi."
