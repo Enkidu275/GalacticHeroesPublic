@@ -2,14 +2,10 @@ Tablet D: The False Illil-Bani
 Following the defeat of Sumer, came the time of troubles; a period of significant turmoil.
 Old allies blamed Sumer for the failure, and imposed unreasonable debts upon its people, soldier or not.
 High-Prince Shulgi was a sickly king, and a frail one. His wife Simti loved him regardless, and bore him many children.
-The Third King of Lagash had stolen King Apsu's father, and demanded they repay the debt obligation or else.
-Politics, particularly those positions reserved by the ambitious, nobility or not, attracted the ambitious.
-And so it was, that the boyars of Apsu's throne sensed the weakness of King Apsu; his family and loved one's.
-You see, they realized that Shulgi was now weak. Apsu, however, was much more audacious than the others.
-Apsu and his wife, Tiamat, decided to manufacture a story such that the sickly Shulgi had cuckholded Apsu.
-They had a son, Illil-bani, who they intended to use as a puppet in order to rule Sumer. Illil-bani was also sickly.
+The Third King of Lagash had King Apsu's father as a hostage, and demanded they repay the debt obligation.
 Apsu and Tiamat confronted Shulgi after a tax-related dispute between some boyars that Shulgi oversaw.
-"Apsu, Tiamat revealed to me that Illil-bani is yours." Tiamat was crying in the corner very convincingly.
+"Apsu, Tiamat revealed to me that Illil-bani is yours." Tiamat was crying in the corner, very convincingly.
+He held a paternity test tablet, proclaiming the blood-lineage of Illil-Bani as belonging to Apsu.
 Simti stopped Apsu, "Shulgi would never do that, and also, he's sterile. He had sperm frozen, since he's the high-prince."
 Tiamat immediately stopped crying and responded, "Reasonable. But also, you're a loose end, with his father."
 "The boyars are getting particularly antsy, and so, who do you think they're going to believe?"
@@ -32,39 +28,35 @@ He wanted to refuse the crown, but now, all the boyars were watching the two of 
 Shulgi placed his crown upon Illil-bani's head. Tiamat stepped forward and kissed Apsu.
 "Don't let this get to your head" she whispered as she stepped back.
 She knealt down to Illil-bani and whispered, "We are in control. Don't forget that."
-
-Tablet ?: Born To Die
 Shulgi and Simti had been dethroned, but they still had their lives and happiness.
 For them, that was enough. They began to enjoy more time with their children, playing in the snow.
 When the Third King of Lagash heard of the news, he was unexpectedly decent about it.
-Shulgi's father was returned to him. His entire family had been returned to Apsu.
-Shulgi had been so busy in his duties, that he hadn't had the chance to enjoy such things.
+Shulgi's father was returned to him. And even revealed that he had been treated well.
 But one day, Illil-bani returned once more. He looked visibly distressed.
 "Tiamat and Apsu want to go to war with Lagash! And they want me as their puppet!"
 Shulgi and his family were terrified. "Are you sure? You have to be sure!"
 Illil-bani responded, "Yes! Tiamat is trying to create an alliance with the Hitites!"
 Simti asked, "Did any of them follow you here? Maybe Apsu?"
-Illil-bani said, "No. Why Apsu specifically?"
-Simti explained, "Apsu would never admit it, but he hates his wife, and you."
-Suddenly, Apsu ran out, with a dagger. He had been tailing Illil-bani.
-Apsu's father stepped in the way of Illil-bani, and was stabbed by Apsu.
+Illil-bani said, "No. Why dad, specifically?"
+Simti explained, "Apsu would never admit it, but he hates your mother, and you."
+Suddenly, Apsu ran out with a dagger. He had been tailing Illil-bani.
+Shulgi's father stepped in the way of Illil-bani, and was stabbed by Apsu.
 He audibly screamed out in pain, and Apsu seemingly became aware of his surroundings.
 He looked at the family, paused and said, "Tiamat ordered me to send Illil-bani a message."
 "So stop talking." Apsu ran away, leaving them to mourn the loss of their family member.
 Shulgi was still of royal blood, and potentially a threat to Tiamat. They were not safe.
 
-Tablet ?: 
+Tablet ?: Born To Die
 The boyars held a funeral for Shulgi's father. They seemed relatively respectful.
-It seemed this had not been Tiamat' plan, or at least not yet. Apsu's family were quiet.
 Shulgi was physically-frail, surrounded by murderous noblemen dreaming of power.
 His children were not yet of age to take the crown, and Apsu might be regent.
 Shulgi decided that he had only one single option; to consult the Third King of Lagash, Amar-Suen.
 The family whispered among one another, fearful of anyone who may be listening in to the conversation.
 One of Shulgi's children suggested that they establish a connection with Amar-Suen.
-The boy explained that, using RSA-protocols, the messages could not be deciphered.
-He went on to explain that, "But they will see the initial request for communication, and to whom it is addressed."
+The boy, Ibbi-sin, explained that when using RSA-protocols, the messages could not be deciphered.
+Ibbi-sin on to explain that, "But they will see the initial request for communication, and to whom it is addressed."
 Shulgi suggested that "What if we attempt to plant an idea in Tiamat's head to have Illil-Bani lie to him?"
-The boy said, "No. That would be too obvious. There's a better method. We will have Illil-Bani speak to the Hitites."
+Ibbi-sin said, "No. That would be too obvious, dad. There's a better method. We will have Illil-Bani speak to the Hitites."
 "The Hitites don't know the nature of our predicament. We can deceive their leaders into initiating the connection."
 "We'll tell them that it needs to be secret, in order to avoid a paper-trail. Their leaders are very incompetent."
 And so, the family had Illil-Bani speak to the Hitites, who then established a connection with Amar-Suen.
@@ -81,6 +73,9 @@ Shulgi and Simti immediately widened their eyes. Shulgi took a deep breath, and 
 "And they're trying to force Illil-Bani to be a part of it. That's why they dethroned me. And why they killed my father."
 Amar-Suen was shocked, "Why did they kill your father? That doesn't even make any sense from a strategic perspective."
 Simti responded, "It wasn't. Apsu did it accidentally, trying to kill Illil-Bani. Tiamat isn't the faithful type."
+"Shulgi, do you remember how, 12 years ago, your brother appointed Tiamat, and died a few years later?"
+Shulgi responded, "But she could have just had Apsu's child anyway? Why didn't she just lie to my brother?"
+Tiamat retorted, "Tiamat loves not a single man. The lineage of her child is entirely of convenience."
 "Apsu and Tiamat's marital problems are the only reason any of us are even still alive."
 "They even put some type of remote-detonating-crown on Illil-Bani's head, forcing him to do their bidding."
 Amar-Suen looked terrified, but then a treacherous grin went across his face. He began to laugh.
@@ -117,13 +112,38 @@ Tiamat sighed and said, "Sure. You can go back to your bath. But we'd love to ha
 
 Tablet ?:
 Amar-Suen emerged from the bath, wearing the crown. Tiamat wasted little time. She explained the crown, and gave him a tablet.
-"Your crown can be remotely-detonated. We also have a timer that will go off, if you manage to break the signal."
+"Your crown can be remotely-detonated. We also have a timer that will go off, should you manage to break the signal."
 "These are the declarations you will be making when you return home. Obviously, we'll start with you removing the debt."
 "We'll extend the timer once you've done so, and continue monitoring from there."
 Amar-Suen responded, "Wait, you want my kingdom? Can I bring some bottles of wine home with me?" Tiamat paused.
-She demanded, "You have to do what we say, otherwise, we're going to remotely decapitate you. Focus!"
+She demanded, "You have to do what we say, otherwise, we're going to kill you. Focus!"
 Amar-Suen responded, "Ok, fine. I didn't want your shitty wine anyway" and left.
 Shulgi and Simti weren't entirely certain of what he had done in the bath, and Tiamat wasn't entirely sure if Amar-Suen was coherent enough for this.
 Nonetheless, a broadcast was made by Amar-Suen himself, and it was presented as a livestream.
 Amar-Suen announced that the debt was to be ended. His timer was extended by Tiamat.
-He went slightly off script, suggesting that he wished for positive relations with Sumer.
+Shulgi began to wonder, "What is he doing? Didn't he swap out a crown in the bath?"
+A few weeks passed, and another broadcast came. But this time, it was different.
+Tiamat was now struggling to connect to the device. There was no signal.
+"My dear friends in Sumer. I'm afraid I've come to a terrible realization."
+Tiamat immediately attempted to detonate the crown, but nothing happened. "Did he not understand the timer?" she began to panic.
+"Ten years ago, I had heard of the famines you were suffering, and thought to remedy it, by pausing the arrangement."
+"I mean, what good are a bunch of dead men that owe me money? Sorry. That's a bad joke."
+"Illil-Bani has brought some paperwork to me, revealing that the boyars apparently made debt-payments to me."
+"I'm not entirely sure what happened. Maybe a scammer pretended to be me? And tricked every principality of your entire government?"
+"Anyways, if you see any invoices from me in the future, know that they're fake. Thanks for listening in."
+The boyars were panicking, calling their families, and telling them to run as fast as they could.
+Apsu yelled, "We need to kill Illil-Bani!" He signed in to his device, and immediately began attempting to kill Illil-Bani.
+Tiamat screamed and began clawing at Apsu's face, desperately attempting to save her son. Apsu pushed the button. But nothing happened.
+Apsu brutally sent his fist right through Tiamat's face, and she was tossed to the ground, next to Illil-Bani.
+"You know what? I'm done. You took every year of my life, raising that piece of trash. And now, it doesn't matter anymore."
+Tiamat screamed, begging him to spare Illil-Bani. Apsu laughed, "Oh? You actually care about Illil-Bani? That's hilarious."
+"And it'll help me hurt you a little bit more before I kill you." The boyars were also going insane, and didn't notice.
+Suddenly, a gunshot rang out. Blood splurted out of Apsu's mouth. Ibbi-sin had a musket, and the device Apsu had dropped.
+"Boyars, friends, I'm sorry that this terrible outcome has happened. But your time here is up. We have carriages to help in your exile."
+"And now, thanks to Apsu, we have the API-calls sent out, that will later be used to disengage Amar-Suen's crown."
+"I'm willing to bet that there's no time-related API header, since you really, really want that type of message to make it."
+"And since you'd want the message to follow confusing and convoluted routes."
+"Believe it or not, human frailties are easier to exploit than mechanical ones. And so are the carriages we've arranged for you."
+"You're welcome. Now fuck off and never return."
+Later on, Apsu asked Ibbi-sin why Amar-Suen went to the bath. Ibbi-sin responded, "Oh, that? Exactly what he said, dad."
+"You're a cripple. And you shared a bath with him. He knew he'd have to wear the crown for weeks on end."
