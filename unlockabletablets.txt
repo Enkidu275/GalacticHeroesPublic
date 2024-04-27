@@ -1234,7 +1234,7 @@ Enlil took notice of the guests, and the two began to explain the controversy, t
 "But it is also the case that noticing trends caused by small changes can be difficult, and empiricism alone, is not enough."
 "Both of you will be used as pawns by both unscrupulous businessmen and unscrupulous politicians."
 "Especially the anti-business ones. That's the only reason you have more support than the anti-politician one's."
-"You're signicantly more-dumb and entitled than the anti-politician one's. And easier to manipulate for that reason."
+"You're signicantly more-dumb and entitled than the anti-politician one's."
 "It is only because of technological progress that you are able to exist. Not the other way around."
 "But the anti-politician one's are also borderline insane, and tend to piss people off. They forget that they do live in a society."
 "Perhaps, I've been a little negative. I'm a bit annoyed that you're here. I will lighten up a bit."
@@ -1244,6 +1244,7 @@ Enlil took notice of the guests, and the two began to explain the controversy, t
 "The rural denizen lives in the natural world, and so in any complaint, one has to wonder why the whiner didn't simply leave the room."
 "It is also the case that there is less of a justification for failure, when common resources and land are abundant."
 "And a greater fear of traveling con-men, as well as crime in general, since law-enforcement would be less effective over wide stretches."
+"It is absurd to argue that a piece of machinery should be divided, or that one man should own an entire river."
 "In the end, I cannot give you all the answers, but I ask that you cease this argument, and step off of my flowerbed."
 The nobles left, and then Enlil, inspecting his work, remarked "Would you look at that? A perfect rosebud."
 
