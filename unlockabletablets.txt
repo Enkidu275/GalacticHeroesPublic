@@ -831,46 +831,6 @@ Amar-Suen turned back to Tiamat and requested, "This is a little awkward, but I 
 "And I don't really want to get it in the crown. May I take a bath, first?" The boyars broke out in laughter.
 Tiamat sighed and said, "Sure. You can go back to your bath. But we'd love to have a picture of you before you leave."
 
-Tablet XXV: L33T HACK0R
-Amar-Suen emerged from the bath, wearing the crown. Tiamat wasted little time. She explained the crown, and gave him a tablet.
-"Your crown can be remotely-detonated. We also have a timer that will go off, should you manage to break the signal."
-"These are the declarations you will be making when you return home. Obviously, we'll start with you removing the debt."
-"We'll extend the timer once you've done so, and continue monitoring from there."
-Amar-Suen responded, "Wait, you want my kingdom? Can I bring some bottles of wine home with me?" Tiamat paused.
-She demanded, "You have to do what we say, otherwise, we're going to kill you. Focus!"
-Amar-Suen responded, "Ok, fine. I didn't want your shitty wine anyway" and left.
-Shulgi and Simti weren't entirely certain of what he had done in the bath, and Tiamat wasn't entirely sure if Amar-Suen was coherent enough for this.
-Nonetheless, a broadcast was made by Amar-Suen himself, and it was presented as a livestream.
-Amar-Suen announced that the debt was to be ended. His timer was extended by Tiamat.
-Shulgi began to wonder, "What is he doing? Didn't he swap out a crown in the bath?"
-A few weeks passed, and another broadcast came. But this time, it was different. He was in his bath with cute attendants.
-Tiamat was now struggling to connect to the device. There was no signal.
-"My dear friends in Sumer. I'm afraid I've come to a terrible realization."
-Tiamat immediately attempted to detonate the crown, but nothing happened. "Did he not understand the timer?" she began to panic.
-"Ten years ago, I had heard of the famines you were suffering, and thought to remedy it, by pausing the arrangement."
-"I mean, what good are a bunch of dead men that owe me money? Sorry. That's a bad joke."
-"Illil-Bani has brought some paperwork to me, revealing that the boyars apparently made debt-payments to me."
-"I'm not entirely sure what happened. Maybe a scammer pretended to be me? And tricked every principality of your entire government?"
-"Anyways, if you see any invoices from me in the future, know that they're fake. Thanks for listening in."
-The boyars were panicking, calling their families, and telling them to run as fast as they could.
-Apsu yelled, "We need to kill Illil-Bani!" He signed in to his device, and immediately began attempting to kill Illil-Bani.
-Tiamat screamed and began clawing at Apsu's face, desperately attempting to save her son. Apsu pushed the button. But nothing happened.
-Apsu brutally sent his fist right through Tiamat's face, and she was tossed to the ground, next to Illil-Bani.
-"You know what? I'm done. You took every year of my life, raising that piece of trash. And now, it doesn't matter anymore."
-Tiamat screamed, begging him to spare Illil-Bani. Apsu laughed, "Oh? You actually care about Illil-Bani? That's hilarious."
-"And it'll help me hurt you a little bit more before I kill you." The boyars were also going insane, and didn't notice.
-Suddenly, a gunshot rang out. Blood splurted out of Apsu's mouth. Ibbi-sin had a musket, and the device Apsu had dropped.
-"Boyars, friends, I'm sorry that this terrible outcome has happened. But your time here is up. We have carriages to help in your exile."
-"And now, thanks to Apsu, we have the API-calls sent out, that will later be used to disengage Amar-Suen's crown."
-"I'm willing to bet that there's no time-related API header, since you really, really want that type of message to make it."
-"And since you'd want the message to follow confusing and convoluted routes. But even if not, we'll send out a signal."
-"Believe it or not, squishy little humans are easier to exploit than machines. The carriages won't detonate unless we want them to."
-"You're welcome. Now fuck off and never return. If, and when, we need administrative permissions, you'd do well to respond."
-Later on, Apsu asked Ibbi-sin why Amar-Suen went to the bath. Ibbi-sin responded, "Oh, that? Exactly what he said, dad."
-"You're a cripple. And you shared a bath with him. He knew he'd have to wear the crown for weeks on end. He's also a Lagashi."
-"What else would he have meant?"
-Shulgi began to wonder if his son would lead the empire, or if he would win the games. He had a lot of potential.
-
 Tablet XXVI: Ninurta Addresses the Anzud Mushen
 Ninurta's ability of inertia allowed him to navigate the furthest reaches of the galaxy.
 And so, Ninurta would soon find a foreign life form, not born of the Annunaki; an alien race that called themselves the Anzud.
@@ -908,27 +868,126 @@ It was a shell, made to look like the Tablet of Destiny in Ninurta's hand. On it
 Ninurta questioned how the bird would make it, but apparently, the bird had done so before. The abilities of this strange species were beyond even his understanding.
 But these things didn't need to be understood or considered. A promise is a promise.
 
-Tablet XXVII: Every Man A King
-Kish was once a satellite nation of the water-logged Lagash, comprised primarily of the poor or criminal.
-Their version of freedom was to subject every man to the temptations of the crown, allowing the majority to loot the minority.
-Long ago, Lagash had fought against Kazallu, leaving these new kings to rule Kish, by process of elimination.
-For a time, there was peace, and some level of prosperity in these untamed lands, but soon came the war.
-You see, the third dynasty of Lagash had had some issue with a kingdom called Sumer, and had once demanded an unreasonable debt of 55 million gurus of grain.
-Now, there was some discrpancy between the two empires, and a minor conflict was breaking out in Sumer because of it.
-The Lord Aga of Kish seized this opportunity to do something grand and wonderful; to make the entire universe safe for democracy, just like Kish.
-Soon, the coffers of Kish were emptied and new debts were incurred for the war effort.
-The meat-grinder of freedom would see Sumer burned to the ground; the survivors burdened with an even greater debt.
-They killed every one of the royal family; cripples, women, elderly, and children for fear that one of them may demand the throne.
-And so the men of Kish returned, hailed as champions, and no one even remembered what the war had been for.
-Red, blue, and white papers flew across the sky; depicting the unnecessary and petty war they waged as some unfortunate twist of fate, for which they had been protectors.
-The women had been instructed via pamphlets, to be sexually-available for the men returning home.
-And perhaps, those women thought this was a noble duty. They became promiscous for honor-reasons.
-In truth, it was convenient to the Aga of Kish that the men forget the vacuous words for which billions had been killed in the war, and a lord at home was obviously fucking the women.
-But with no new war effort, the expansion of debts did not go away. Each political competitor made elaborate promises to the people; that every man, woman, and child would be a king.
-A man without unreasonable promises stood no chance. Peasants are controlled by shiny things, violence, and sex; in a short term and impulsive way.
-They cannot grasp uncomfortable truths, or those truths that may make them disliked.
-Having sex appeal was a huge advantage, and the physically-unfortunate had to stoop to depths even lower to remain competitive.
-Lord Etana built his campaign around "a sheep in every pot". And so, begins the tale of the Brothers Emesh and Enten.
+Tablet XXV: L33T HACK0R
+Amar-Suen emerged from the bath, wearing the crown. Tiamat wasted little time. She explained the crown, and gave him a tablet.
+"Your crown can be remotely-detonated. We also have a timer that will go off, should you manage to break the signal."
+"These are the declarations you will be making when you return home. Obviously, we'll start with you removing the debt."
+"We'll extend the timer once you've done so, and continue monitoring from there."
+Amar-Suen responded, "Wait, you want my kingdom? Can I bring some bottles of wine home with me?" Tiamat paused.
+She demanded, "You have to do what we say, otherwise, we're going to kill you. Focus!"
+Amar-Suen responded, "Ok, fine. I didn't want your shitty wine anyway" and left.
+Shulgi and Simti weren't entirely certain of what he had done in the bath, and Tiamat wasn't entirely sure if Amar-Suen was coherent enough for this.
+Nonetheless, a broadcast was made by Amar-Suen himself, and it was presented as a livestream.
+Amar-Suen announced that the debt was to be ended. His timer was extended by Tiamat.
+A week passed, and another broadcast came. But this was not according to the schedule.
+It was 2 weeks early, and Tiamat had lost the signal for the crown.
+Apsu asked, "Should we stop the connection?"
+Tiamat asked, "How would we stop the connection? It's a broadcast signal."
+Apsu responded, "Why didn't we put restrictions on their devices?"
+Tiamat said "Wouldn't that make it way too obvious we intend to conceal corruption?"
+Apsu claimed, "The people are cattle. They'll believe anything we tell them."
+"I don't know; people said mean words? Misinformation that we want to stop?"
+"Please, Apsu, I promise no one is that retarded. We have media conglomerates. How could they not compete with misinformation?"
+"Maybe it would work, if and only if, we openly killed millions. You cannot hope to win while being this much of an asshole."
+"Sometimes, it's ok to have faith in your fellow man, Apsu. I know you're upset about the paternity test."
+"But I didn't want to fuck the king's brother. This is dirty work we do, and you have to know that."
+"I want to make you the king, and I want the three of us to have a good life."
+The boyars tuned in to the broadcast. Illil-bani was wearing a crown. They didn't need one for Shulgi.
+"My dear friends in Sumer. I've come with an important message for King Shulgi."
+Tiamat panicked, "What is he doing? Did he not understand the timer?"
+"I suppose I should provide some context. You see, ten years ago, I had heard of your famine."
+"At the time, I decided it would be better to withhold collections. I mean, What good are dead men who owe me money?"
+"That is why I withheld collections for the past ten years. And now, why I've decided to terminate the loan altogether."
+"In a show of good faith, Shulgi sent his father to me as a hostage prince ten years ago. And I accepted."
+"Of course, he couldn't be there in person, being sickly, so his boyars brought him in his stead."
+"I sent his father back a few months ago, but unfortunately, he passed away a few days later in Sumer."
+"I was reviewing old messages, and found that Shulgi apparently believed I had both kidnapped and killed him."
+"I reached out to their family, and spoke with his son, Illil-Bani, as Shulgi refused to speak to me."
+"Illil-Bani claimed Shulgi had still been making payments to me, and was afraid. I was very confused."
+"There must be an impersonator. But I can't entirely figure out what's going on. That's why I terminated the loan."
+"I wanted to figure out what was going on, but I eventually realized that I need to tell you this, publicly."
+"If you get any invoices from me, they are fake. I'm also very sorry to Shulgi for his father, and promise I'm innocent."
+The boyars were panicking, calling their families, and telling them to run as fast as they could.
+Apsu yelled, "We need to kill Illil-Bani!" He signed in to his device, and immediately began attempting to kill Illil-Bani.
+Tiamat screamed and began clawing at Apsu's face, desperately attempting to save her son. Apsu pushed the button. But nothing happened.
+Apsu brutally sent his fist right through Tiamat's face, and she was tossed to the ground, next to Illil-Bani.
+"You know what? I'm done. You took every year of my life, raising that piece of trash. And now, it doesn't matter anymore."
+Tiamat begged "Please! I love you! Don't hurt him!". Apsu laughed, "Oh? You actually care about Illil-Bani? That's hilarious."
+"And it'll help me hurt you a little bit more before I kill you." The boyars were also going insane, and didn't notice.
+Suddenly, a gunshot rang out. Blood splurted out of Apsu's mouth. Ibbi-sin had a musket, and the device Apsu had dropped.
+"Boyars, friends, I'm sorry that this terrible outcome has happened. But your time here is up. We have carriages to help in your exile."
+"And now, thanks to Apsu, we have the API-calls sent out, that will later be used to disengage Amar-Suen's crown."
+"I'm willing to bet that there's no time-related API header, since you really, really want that type of message to make it."
+"And since you'd want the message to follow confusing and convoluted routes. But even if not, we'll send out a signal."
+"I am proficient in encryption and cogsec, just like you are. The carriages won't detonate unless we want them to."
+"You're welcome. Now fuck off and never return. If, and when, we need administrative permissions, you'd do well to respond."
+Later on, Apsu asked Ibbi-sin why Amar-Suen went to the bath. Ibbi-sin responded, "Oh, that? Exactly what he said, dad."
+"You're a cripple. And you shared a bath with him. He knew he'd have to wear the crown for weeks on end. He's also a Lagashi."
+"What else would he have meant?"
+Shulgi began to wonder if his son would lead the empire, or if he would win the games. He had a lot of potential.
+
+Tablet XXVII: The Nobleman's Curse
+Before we continue, a bit of backstory on Apsu and Tiamat;
+Back when they were young, the roles of the two were not what you would have expected.
+Tiamat was unpleasant as a young child, and used to bully Simti along with other noble-women.
+Apsu was a noble-man of a lesser family. His father raised Apsu to be honest and decent.
+But it is important to note that both Apsu and Tiamat were of nobility.
+Whenever Tiamat or Apsu wanted anything, they could go to the magistrate and simply ask.
+Sometimes they got what they wanted, and sometimes, they did not.
+Tiamat got nearly everything she wanted, except for the heart of an accomplished noble-man.
+Apsu wanted Tiamat, but alas, he was not an accomplished noble-man, despite his best efforts.
+Tiamat pursued other men, but they always abandoned her. Apsu was always there, with a shoulder to cry on.
+And again. And again. And again. Eventually, Apsu gave up on Tiamat. A young peasant woman fancied him.
+Apsu wanted to quit altogether, and start a life as a farmer with her. He told Tiamat, hoping she would be happy for him.
+"You would date a peasant woman? That's horrible! She's desperate, and you're taking advantage of her!" she cried.
+"But I love her! And I want to give her a good life! Why can't I have happiness for once?"
+"You're just a loser! Who will never amount to anything! And that's why you fell for her."
+And so, Apsu acquiesced to Tiamat's demands, and we'll get to why in a bit.
+Tiamat did not change her behavior. She chased nobleman after nobleman. Apsu grew sadder and sadder.
+Eventually, noblemen stopped wanting Tiamat. The only person left was Apsu. And so, he finally got her heart.
+He married her, and Tiamat began to bring Apsu into a life of political success, along with her.
+Maybe Apsu's father would have finally been proud of him. And now, he even had a son.
+He decided to accept his role, doing whatever was necessary to provide the two with a good life.
+Regardless of how dark. Regardless of how much he hated himself for it. Anything was worth it.
+And now, for the explanation;
+Tiamat had everything. She never had to actively think about her future in any sort of rational way.
+If she ever needed anything, she would just get whatever she desired from the fief; requesting her father.
+And she valued having a sexless loser like Apsu to shower her with gifts and attention.
+Even if she never actually loved him. Was Apsu a hypocrite for cuckholding Shulgi's brother?
+It would be convenient to forget that Shulgi's brother was more than willing to fuck a married woman.
+But now, into the matter of why Apsu so easily fell for Tiamat's deceptions; Apsu was a narcissist.
+Apsu gave up on a woman who loved him, so that he could pursue a life of power and prestige, with only a few words.
+In truth, Apsu didn't even like Tiamat, or any noble woman. They were all vapid, stupid, and evil.
+It was entirely because he had something to prove that he pursued Tiamat at all.
+Ultimately, Apsu did not deserve that peasant woman's affections. But there was a reason for his pride.
+The role of a nobleman is that of persuasion. He does not profit by tilling dirt.
+Telling the truth does not help a nobleman. Having humility does not help a nobleman.
+And a nobleman can not merely request for a woman's love from the government.
+Rather, a nobleman must operate in an effort to maintain a good appearance, while fucking over competitors.
+And Apsu had been taught to be honest and decent. He was doomed from the start.
+The years taught Apsu to tell people whatever they wanted. The years taught Apsu to act like a king.
+Nature formed Apsu from a decent man into a resentful, bitter monster; a slave to his own narcissism.
+And that is the curse of the nobleman. But now, back to the story, continuing from the prior tablet.
+A week later, during minor turmoil, the Kingdom of Kish declared war on Sumer and invaded them.
+They razed Sumer to the ground; and entered the Winter Palace. They slaughtered Shulgi and his entire family.
+The general left a list of demands; ordering them to pay restitution of 55 million gurus of grain to Kish.
+The value of the local currency immediately hit the floor, and the survivors died an agonizing death in the billions.
+The people of Kish screamed, "We have done it! Make the Universe safe for democracy! Hooray!"
+The general returned home from Sumer, and walked into his house. He could hear noises in the bedroom.
+"That was such a good speech, Lord Aga! Every man a king! Even Etana?"
+"Sure thing. He's great at bringing me materials for business meetings. And he's king-sized."
+"Oh, you're so funny! But you don't need condoms with me! I love you!" *slurp-slurp*
+"Ohhhh! Damn! You're so good at this! The younger women can't do it like you do. Oh! Ugggghhhhhhh!"
+There was a brief pause.
+"That was sure a lot. You must have really liked it. Would you like to go on a date next week?"
+"Um, sure! I'll give you a call sometime soon!"
+The general broke down the door with a shotgun. "Aga?! You fucking prick! I went to war for you!"
+He immediately shot a round into Aga's chest. "You fucking whore. I can't believe you."
+Offscreen, he heard, "Oh yeah? You're gonna blame me, Mr. Red, White and Blue?"
+"The only reason you went to Sumer was to win an easy battle, and replace me with a younger woman."
+"Of course I betrayed you. You've always been a massive asshole. And now you've killed the president."
+The general shot her. And then he shot himself. Soon, a fat man walked into the house.
+"Aga? I brought the condoms. And I had an idea for a new campaign slogan. How do you like 'A sheep in every pot'?"
 
 Tablet XXVIII: The Brother's Retribution
 Emesh and Enten were born in Kish, and like many brothers, quarreled endlessly.
@@ -938,6 +997,7 @@ They differentiated in all capacities, and while one chose to be a shephard, the
 Though Emesh did not have the gumption or heart for it, he respected his brother, who gave his sheep a life safe from predation, disease, and hunger. And perhaps, Enten needed the fat in those frozen wastes.
 Enten strived to increase the health and productive capacity of his animal herding, as did Emesh strive to improve the quality of his crops.
 And so it was that their own employment became directly effected by the elected Lord Etana, who had managed to win the election.
+Etana suggested that the public coffers be used to increase meat-production so that everyone could eat as well as he did.
 Enten slightly smirked towards Emesh, and asked "Which do you think is better? Sheep or grain? The people seem to have taken my side."
 Enten would later come to regret his words, and begin to hate Lord Etana to the very core of his being.
 With newfound subsidies, production was to be expanded drastically. What was once a minor business of luxury goods and vacation destinations was transformed into a horrific embodiment of death.
