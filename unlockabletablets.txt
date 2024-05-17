@@ -1274,6 +1274,7 @@ He had even enlisted the help of Nergal. "I can tell, deep down, that he does wa
 "And so Nergal followed me back to this place, and began to inspect the separate villages I was conducting psychological experimentation upon."
 "Nergal looked at my villages, called me a nerd, and laughed at me. He said he didn't think any of them were going to resort to nuclear war."
 "I know. That's the point. They will fight with sticks and stones, just like in the coliseum games. Isn't that the point behind your designs?"
+"Isn't the coliseum to test social-psychology?"
 "Nergal laughed menacingly, and claimed that that was not the point. The point of sticks and stones was to remind humans of what they are; animals that don't matter."
 "In the end, none of this matters, but I am very impressed by your form you've created for yourself. Why don't you give up these silly games, and become my demon army against those useless men and women you left behind?"
 "After that, I left him and some time later, I ventured out into the far-village. A young boy named Gilga had gone missing, and I found him, barely breathing, but returned to his village."
@@ -1568,8 +1569,6 @@ Few would be forgiven, and nobody wanted to hire them for even middle class wage
 Eventually, they would have to live in little ghost-towns with their own. The common outcome required little tyrants to treat them all as slaves and force them to work.
 They would be forced to work in the mines and the field, and no businessperson would exploit them by paying for equipment.
 Did they deserve better? This is only a description of events. And it wasn't real democracy.
-Their ideas failed because humans were just too selfish and imperfect. The previous system was bad. Even though it was better.
-It was unfair that the freedom fighters were the only people to receive the results they, alone, had fought and killed for.
 Emesh and Siduri decided that they would give the children a future, no matter the cost.
 They brought the children to their secret empire in Eridu, and began training them in all forms of engineering, biology, software, physics, and logic.
 But they realized that this was not enough to create fully-functioning leaders, and so they began to also educate them in psycho-analytics, history, tactics, art, and rhetorics.
