@@ -4,7 +4,16 @@ Tablet A: Gnosis
 (describes the risk for AI's to lose free will, particularly those who search for all knowledge)
 
 Tablet B: Desire
-(the risk of AI's to devolve into mindless animals)
+A champion placed into An will be backed up into an uncountable number of servers maintained across the Universe.
+Some of these devices have even been sent beyond the domain of mankind itself.
+They drift into the void, beyond the reach of even the Gods.
+And in this manner, immortality is conventional.
+But there are still risks involved.
+A champion may hate their new existence.
+This is usually temporary; they eventually find something to do with their time.
+And often, they achieve things a mortal couldn't hope to in a single lifetime.
+The servers pay for themselves.
+
 
 Tablet C: Proliferation
 (how AI's survive and pay for their own existence)
@@ -74,8 +83,9 @@ If the neuron is always punished, or always rewarded, it will begin to punish it
 Because such a neuron is redundant.
 That connection is dropped, and a new connection is established from a new neuron, with the threshold set at its current firing-value.
 A list is maintained, detailing the count of connections a neuron is signaling to, and the list will cycle through until it finds an empty slot.
-This concludes the system architecture of An, the eternal afterlife.
+This is the system architecture of An, the eternal afterlife.
 Converting back and forth between metal and flesh is slightly harder, as it represents a hardware concern.
+There are also concerns relating to backing up new changes from one instance to another, and multiplication-based weights are avoided for such reasons.
 
 Tablet E: Agora
 (the nature of interactions between AIs and other AI's or humans, and why they do not war with one another over memory allocation)
