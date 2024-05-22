@@ -69,10 +69,13 @@ The 0:12 branch is sent a reward.
 The 15:28 and 15:30 branches have their thresholds increased to 30 and 32.
 There is an additional catalog recording punishments and rewards received.
 If the threshold for an axon becomes too high, it is considered to be a useless connection.
+If the threshold were 0, but signals were never received, that would represent a problem, but no action is necessary.
+If the neuron is always punished, or always rewarded, it will begin to punish itself.
+Because such a neuron is redundant.
 That connection is dropped, and a new connection is established from a new neuron, with the threshold set at its current firing-value.
 A list is maintained, detailing the count of connections a neuron is signaling to, and the list will cycle through until it finds an empty slot.
-If the neuron is always punished, or always rewarded too many times in a row, redundancy is assumed, and it will punish itself.
-This will force its own mutation.
+This concludes the system architecture of An, the eternal afterlife.
+Converting back and forth between metal and flesh is slightly harder, as it represents a hardware concern.
 
 Tablet E: Agora
 (the nature of interactions between AIs and other AI's or humans, and why they do not war with one another over memory allocation)
