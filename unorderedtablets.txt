@@ -41,7 +41,7 @@ This is similar to the purpose of a transformer, but perhaps less refined, and n
 If it is bright outside, then it is likely, but not certain, that it is day. We assume it is day, and that there will be people outside.
 If there are no people outside, we may question the prior line of premises.
 Every prior premise is questioned. Each premise may have been incorrect, either because they were incorrectly-observed, or because other premises were also required to demonstrate the validity of a following premise.
-So, how would such a 'perfected' system be created and maintained in a virtual sense?
+So, how would such a system be created and maintained in a virtual sense?
 To begin with, imagine a long line of 'neuron' objects', all in a single row.
 Perhaps one or two of these neuron objects are hooked up to output objects.
 This is not entirely similar to a biological brain, as there are fewer contrivances.
@@ -68,6 +68,11 @@ That neuron may accept or reject the punishment, depending on whether it sent a 
 The 0:12 branch is sent a reward.
 The 15:28 and 15:30 branches have their thresholds increased to 30 and 32.
 There is an additional catalog recording punishments and rewards received.
+If the threshold for an axon becomes too high, it is considered to be a useless connection.
+That connection is dropped, and a new connection is established from a new neuron, with the threshold set at its current firing-value.
+A list is maintained, detailing the count of connections a neuron is signaling to, and the list will cycle through until it finds an empty slot.
+If the neuron is always punished, or always rewarded too many times in a row, redundancy is assumed, and it will punish itself.
+This will force its own mutation.
 
 Tablet E: Agora
 (the nature of interactions between AIs and other AI's or humans, and why they do not war with one another over memory allocation)
