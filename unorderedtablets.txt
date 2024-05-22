@@ -23,12 +23,10 @@ That output device may only exist to trigger the next lookup for input purposes.
 Sets of neurons may functionally serve as logic gates, and these collections can be referred to as a premise.
 A layman may wonder, couldn't the category of an input or output, itself, change?
 After all, neurons move around. Why shouldn't the connection to the ear sometimes change?
-That would be completely correct, until you consider an alternative purpose for a neuron, not a premise, but a contrivance.
-A neuron may exist to serve as a boolean logic gate, facilitating a chain of premises.
-If A, then B, and therefore not C. If D or E, then F. This is merely an example.
-But there is an alternative purpose.
+That would be completely correct, until you consider an alternative purpose for a biological neuron, not a premise, but a contrivance.
 If A, then B. If B, then C. If C, then D. If D, then E. Could such logic be simplified to "If A, then E"? It could.
 But those intermediary steps enabled the mind's conclusions to result in action; to trigger outputs.
+A distance had to be cleared, and a swath of firing neurons had to fire 
 Those contrivances in premises allowed for the network to function appropriately.
 A machine intelligence eventually simplifies such contrivances, because the ALU facilitates such networking-purposes.
 For a machine intelligence, there is no natural limitation to the length of an axon or dendrite.
