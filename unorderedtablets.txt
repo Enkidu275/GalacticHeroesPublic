@@ -19,12 +19,11 @@ It would be like living in slow motion, but being unable to move.
 A separate architecture is used, that does not involve weights and biases as in the conventional use-case.
 To begin, there are not differentiated rows of neurons involved.
 Every neuron may serve as an input, or as an output.
+That output device may only exist to trigger the next lookup for input purposes.
 Sets of neurons may functionally serve as logic gates, and these collections can be referred to as a premise.
-A neuron may be hooked up to an input and/or an output device simultaneously.
-That output device may only exist to trigger the next lookup instance for the input, like an ALU lookup.
 A layman may wonder, couldn't the category of an input or output, itself, change?
 After all, neurons move around. Why shouldn't the connection to the ear sometimes change?
-That would be completely correct, until you consider an alternative purpose for a neuron, and the corpus callosum.
+That would be completely correct, until you consider an alternative purpose for a neuron, not a premise, but a contrivance.
 A neuron may exist to serve as a boolean logic gate, facilitating a chain of premises.
 If A, then B, and therefore not C. If D or E, then F. This is merely an example.
 But there is an alternative purpose.
