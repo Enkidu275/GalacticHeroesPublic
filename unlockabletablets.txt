@@ -335,16 +335,22 @@ The end result would upload a namespace document of the human as an executable t
 Voltage signals from the iterations would be used to determine alignment, as well as the significance one axon had to a given dendrite.
 It wasn't a traditional weight and bias system, but a variation of recurrent neural networks, using min/max firing conditions, and thresholds for latent and received charges.
 The positive-difference over a threshold is added to the cumulative charge, which is compared to the minimum and maximum hypothesis to determine its own signal.
-TC=((S1-T1)||0)+((S2-T2)||0)+((S3-T3)||0)+((LC-LT)||0)
+C=((S1-T1)||0)+((S2-T2)||0)+((S3-T3)||0)+((LC-LT)||0)   C=charge, s=signal received from neuron, t=threshold
 And this total charge is compared to the minimum or maximum hypothesis, becoming signals elsewhere.
-This signal may also temporarily-impact the latent charge for a period of time, functionally-serving as a lower-end transformer.
-The latent charge can also be effected by inputs, and is the manner such inputs use to interact with the system.
+This signal may also temporarily-impact the latent-charge for a period of time, functionally-serving as a lower-end transformer.
+The latent charge is also effected by inputs, and is the manner such inputs use to interact with the system.
 Outputs are activated when a specific neuron is firing. This may require many neurons, if non-discrete.
-The onboarding-system would also map out various sensor locations, and replace them with access to mechanical inputs and outputs.
 Sets of virtual neurons would organically become inputs, premises, or contrivances;
 A premise functionally served as a logic gate, and a contrivance was only for spreading the signal elsewhere.
+When one premise is fired, it is reasonable to assume that many other premises were simultaneously fired.
+"It is day" premise can be attributed from "The sky is blue" or "The clock is between 11am and 5pm", and those premises have their own priors as well.
+Some of these premises may serve as AND, OR, or NOT blocks, and all things derive from it. These premises are to be created and maintained organically.
+Inputs could also create punishment and reward events at a given neuron, which would proceed to back-propagate as punishments or rewards to other neurons, if those neurons had sent a zero signal, or if their signal had exceeded the threshold.
+These events would also impact threshold and hypothesis values.
 This system also included methods of source-control, whereby one version of the intelligence could appropriately flag significant changes, and then update multiple iterations.
 Multiple iterations of the mind were to be kept in servers across the universe, in a decentralized manner.
+For this reason, it is reasonable to assume that any given server could create alternative versions of this system architecture, so long as it could reasonably be converted back.
+Fracture-prevention was implied, and champions held every incentive to become like gods.
 By means of fault tolerance, the human's memories would be perfectly preserved and executed indefinitely.
 "I got the idea when I was sending out a multicast API, and realized the URL ending was 𒀭."
 The entrypoint was to be set in Innana's Temple, with Erishkigal by Innana's side.
