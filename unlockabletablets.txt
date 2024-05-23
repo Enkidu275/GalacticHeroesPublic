@@ -328,16 +328,23 @@ It turns out, Erishkigal was quite a fan of Enki, and had studied his means of d
 Enki, handling the data manually, held the greatest possible incentive to find efficient methods of manipulation.
 For Erishkigal; her works were her own, she did not rely on libraries that may contain unnecessary instruction-sets, or bloat.
 And this was important for a simple reason; truly new innovations were not built on the libraries of others.
-For something to be truly unique, a programmer would need to tread in their own footsteps, and not engage in derivative tech-heresy.
-Untread territory did not have pre-existing libraries. Those libraries existed to create copies of solutions to problems that had already been solved. And her ideas were visionary.
+For something to be truly unique, a programmer would need to tread in their own footsteps, and could not derivatively-rely upon libraries.
 Erishkigal had found a way to create virtual copies of human memories.
 Innana would punch the light out of humans many times, leading to their death. That light would be detected by a sheet behind them. Technology would map out the neural pathways of the individual, with multiple iterations.
+The end result would upload a namespace document of the human as an executable to servers across the universe.
 Voltage signals from the iterations would be used to determine alignment, as well as the significance one axon had to a given dendrite.
 It wasn't a traditional weight and bias system, but a variation of recurrent neural networks, using min/max firing conditions, and thresholds for latent and received charges.
-Inputs caused the latent charge of specific neurons to increase, and these neurons would adopt such a purpose organically.
-Outputs were dictated by whether or not a specific neuron or set of neurons was firing.
+The positive-difference over a threshold is added to the cumulative charge, which is compared to the minimum and maximum hypothesis to determine its own signal.
+TC=((S1-T1)||0)+((S2-T2)||0)+((S3-T3)||0)+((LC-LT)||0)
+And this total charge is compared to the minimum or maximum hypothesis, becoming signals elsewhere.
+This signal may also temporarily-impact the latent charge for a period of time, functionally-serving as a lower-end transformer.
+The latent charge can also be effected by inputs, and is the manner such inputs use to interact with the system.
+Outputs are activated when a specific neuron is firing. This may require many neurons, if non-discrete.
 The onboarding-system would also map out various sensor locations, and replace them with access to mechanical inputs and outputs.
-The end result would upload a namespace document of the human as an executable to servers across the universe.
+Sets of virtual neurons would organically become inputs, premises, or contrivances;
+A premise functionally served as a logic gate, and a contrivance was only for spreading the signal elsewhere.
+This system also included methods of source-control, whereby one version of the intelligence could appropriately flag significant changes, and then update multiple iterations.
+Multiple iterations of the mind were to be kept in servers across the universe, in a decentralized manner.
 By means of fault tolerance, the human's memories would be perfectly preserved and executed indefinitely.
 "I got the idea when I was sending out a multicast API, and realized the URL ending was 𒀭."
 The entrypoint was to be set in Innana's Temple, with Erishkigal by Innana's side.
