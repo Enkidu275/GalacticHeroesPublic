@@ -332,11 +332,14 @@ For something to be truly unique, a programmer would need to tread in their own 
 Untread territory did not have pre-existing libraries. Those libraries existed to create copies of solutions to problems that had already been solved. And her ideas were visionary.
 Erishkigal had found a way to create virtual copies of human memories.
 Innana would punch the light out of humans many times, leading to their death. That light would be detected by a sheet behind them. Technology would map out the neural pathways of the individual, with multiple iterations.
-Voltage signals from the iterations would be used to determine alignment, as well as the weight of significance one axon had to a given dendrite.
-The system would also map out various sensor locations, and replace them with access to mechanical inputs and outputs.
+Voltage signals from the iterations would be used to determine alignment, as well as the significance one axon had to a given dendrite.
+It wasn't a traditional weight and bias system, but a variation of recurrent neural networks, using min/max firing conditions, and thresholds for latent and received charges.
+Inputs caused the latent charge of specific neurons to increase, and these neurons would adopt such a purpose organically.
+Outputs were dictated by whether or not a specific neuron or set of neurons was firing.
+The onboarding-system would also map out various sensor locations, and replace them with access to mechanical inputs and outputs.
 The end result would upload a namespace document of the human as an executable to servers across the universe.
 By means of fault tolerance, the human's memories would be perfectly preserved and executed indefinitely.
-"I got the idea when I was sending out a multicast API, and realized the URL ending was An." (𒀭)
+"I got the idea when I was sending out a multicast API, and realized the URL ending was 𒀭."
 The entrypoint was to be set in Innana's Temple, with Erishkigal by Innana's side.
 Erishkigal, herself, volunteered to be its first test subject. And so, Innana punched her light into the sheet.
 A few minutes passed, and then the Annunaki heard a voice from the terminal.
