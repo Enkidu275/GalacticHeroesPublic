@@ -1792,10 +1792,11 @@ His men do nothing, but play with swords. Most of them are losers or slaves. He 
 "A bacteria that wishes to preserve itself, will not only expropriate resources from the body it subsists upon, but act to keep out other foreign invaders that may take its place."
 "It is in its long term interest that the body of which it lays claim continues to create resources, by which it may expropriate."
 "If the body is deceased, it can no longer do so. There is a natural proportion of bodily and unwanted life that exists in balance with one another."
+"Though the body contains antibodies, the primary method of maintaining the balance is to adjust the environment, leading invaders to pursue less-destructive forms of expropriation."
+"Complete, untargeted erradication is not sufficient. An attempt to do so only creates a vaccum, for which nature abhors."
 "And on a related note, the previous war conducted by some of your men was not stupidity, but betrayal."
 "Nonetheless, think more about my words, and you will understand what you need to do. I will not say directly, as I wish to test if you are worthy."
-"Remember, a nation prospers when old men plant trees whose shade they will never enjoy."
-Ur Nammu turned around, and swiftly departed.
+"Remember, a nation prospers when old men plant trees whose shade they will never enjoy." Ur Nammu turned around, and swiftly departed.
 
 Tablet XLVIII: Ur Nammu's Banquet
 Everyone in Axel was stunned, and for weeks, all they could talk about was what they thought Ur Nammu might have meant was the solution.
