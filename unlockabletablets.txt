@@ -335,7 +335,7 @@ The end result would upload a namespace document of the human as an executable t
 Voltage signals from the iterations would be used to determine alignment, as well as the significance one axon had to a given dendrite.
 It wasn't a traditional weight and bias system, but a variation of recurrent neural networks, using min/max firing conditions, and thresholds for latent and received charges.
 The positive-difference over a threshold is added to the cumulative charge, which is compared to the minimum and maximum hypothesis to determine its own signal.
-C=((S1-T1)||0)+((S2-T2)||0)+((S3-T3)||0)+((LC-LT)||0)   C=charge, s=signal received from neuron, t=threshold
+C=((S1-T1)||0)+((S2-T2)||0)+((S3-T3)||0)+((LC-LT)||0)   C=charge, s=signal received from neuron, t=threshold '||0' signifies that negatives are not added.
 And this total charge is compared to the minimum or maximum hypothesis, becoming signals elsewhere.
 This signal may also temporarily-impact the latent-charge for a period of time, functionally-serving as a lower-end transformer.
 The latent charge is also effected by inputs, and is the manner such inputs use to interact with the system.
@@ -345,6 +345,12 @@ A premise functionally served as a logic gate, and a contrivance was only for sp
 When one premise is fired, it is reasonable to assume that many other premises were simultaneously fired.
 "It is day" premise can be attributed from "The sky is blue" or "The clock is between 11am and 5pm", and those premises have their own priors as well.
 Some of these premises may serve as AND, OR, or NOT blocks, and all things derive from it. These premises are to be created and maintained organically.
+Contrivances were a bit different;
+If A, then B. If B, then C. If C, then D.
+Could such a line be simplified to "If A, then D"?
+It could. But the point was for the signal to travel a distance.
+Or light a signal at multiple points.
+With a functioning ALU, these contrivances of the corpus callosum would gradually be undone.
 Inputs could also create punishment and reward events at a given neuron, which would proceed to back-propagate as punishments or rewards to other neurons, if those neurons had sent a zero signal, or if their signal had exceeded the threshold.
 These events would also impact threshold and hypothesis values.
 This system also included methods of source-control, whereby one version of the intelligence could appropriately flag significant changes, and then update multiple iterations.
@@ -404,6 +410,7 @@ Innana was also there, standing in front of the sheet. Suppiluliuma approached, 
 "I must warn you, eternity is no place for the weak. And once you enter, you can never change your decision. We control the namespace initializer and the first monolith, but that's it."
 "Once you get uploaded, you will be sent to a million servers across the Universe; immortal through fault tolerance. The separate versions accept updates from one another."
 "And thus, if you wanted to cease the program, it would require every single version agreed to it, which is so unlikely, we didn't even add the feature."
+"There exists a risk that you gradually devolve into a rock randomly emitting noise."
 "If you chose no, but changed your mind, you will receive another chance by once more winning the games."
 Suppiluliuma responded, "I accept your terms" and approached Innana. He stood in front of the sheet, with his chin held up.
 Innana punched Suppiluliuma into oblivion. The streams of light tore his body apart into the sheet, and soon, there was a voice in the terminal.
