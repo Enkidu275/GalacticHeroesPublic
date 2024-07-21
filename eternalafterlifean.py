@@ -21,6 +21,7 @@
 # record of signal(1 byte): bits shift right, if neuron is signalling, first bit is set to 1
 # repetitive signal(1 byte): if record of signal is 255 or 0, +1, else shift bits right
 # repetitive punish(1 byte): if punish, +1, if reward, shift bits right
+# outstanding reward (1 byte) backpropagated reward or punishment
 
 # A dendrite (charge receiver for neuron) contains
 
