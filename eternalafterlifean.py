@@ -15,8 +15,8 @@
 
 # latent charge(1 byte): Environmental Input
 # charge(1 byte): the combined signals and latent values received
-# upper(1 byte): if charge is more than this, signal is the difference
-# lower(1 byte): if charge is less than this, signal is the difference
+# neutral(1 byte): normal value of charge
+# bound(1 byte): if difference between neutral and charge is greater than this, neuron emits signal.
 # signal(1 byte): axon-emitted value to be received by another neuron's dendrite
 # record of signal(1 byte): bits shift right, if neuron is signalling, first bit is set to 1
 # repetitive signal(1 byte): if record of signal is 255 or 0, +1, else shift bits right
