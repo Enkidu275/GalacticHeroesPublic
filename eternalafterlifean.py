@@ -28,3 +28,7 @@
 # signal pointer (4 bytes) 0 if empty. else, points to signal received from other neuron. (axon)
 # threshhold (1 byte) if signal exceeds this value, difference is added to total charge of neuron body
 # record of signal (1 byte) used to determine relationship for punishment inversion
+
+# Neuron Pointer
+
+# Signal Record Lookup: 256 pointers. used to determine closest match. fires together, wires together.
