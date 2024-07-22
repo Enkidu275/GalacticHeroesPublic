@@ -32,3 +32,11 @@
 # Neuron Pointer
 
 # Signal Record Lookup: 256 pointers. used to determine closest match. fires together, wires together.
+
+neuroncount=100
+dendritecount=5
+
+
+#initialize an
+an=bytearray(neuroncount*(8+dendritecount*6))
+neuron=0
