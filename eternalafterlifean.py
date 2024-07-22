@@ -35,8 +35,8 @@
 
 neuroncount=100
 dendritecount=5
-
+neuronsize=8+dendritecount*6
 
 #initialize an
-an=bytearray(neuroncount*(8+dendritecount*6))
+an=bytearray(neuroncount*neuronsize)
 neuron=0
