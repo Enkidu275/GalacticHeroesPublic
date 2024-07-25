@@ -7,9 +7,15 @@
 #              _/    \
 #                    /
 
+# Description Of Operations
+
 # Iterates Through Neuron Array In Loop Endlessly
 # Separate Processor Handles I/O. Carried Over At End of Neuron List.
 # Input Affects Latent Charge. Emitted Signal Also Effects Output
+
+# Considerations Pertaining to Necessity
+
+# 
 
 # A neuron body contains (total 8 bytes)
 
