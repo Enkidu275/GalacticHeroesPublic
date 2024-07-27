@@ -29,10 +29,13 @@
 # repetitive punish(1 byte): if punish, +1, if reward, shift bits right
 # outstanding reward (1 byte) backpropagated reward or punishment
 
-# A dendrite (charge receiver for neuron) contains
+# A dendrite (charge receiver for neuron) contains the neuron pointer, and record of signal.
+# first dendrite adds entire signal.
+# next dendrite adds half the signal.
+# and then a quarter, eighth, etc.
+# uses shr operations from last record.
 
 # signal pointer (4 bytes) 0 if empty. else, points to signal received from other neuron. (axon)
-# threshhold (1 byte) if signal exceeds this value, difference is added to total charge of neuron body
 # record of signal (1 byte) used to determine relationship for punishment inversion
 
 # Neuron Pointer
