@@ -375,10 +375,10 @@ Erishkigal had found a way to create virtual copies of human memories.
 Innana would punch the light out of humans many times, leading to their death. That light would be detected by a sheet behind them. Technology would map out the neural pathways of the individual, with multiple iterations.
 The end result would upload a namespace document of the human as an executable to servers across the universe.
 Voltage signals from the iterations would be used to determine alignment, as well as the significance one axon had to a given dendrite.
-It wasn't a traditional weight and bias system, but a variation of recurrent neural networks, using min/max firing conditions, and thresholds for latent and received charges.
+It wasn't a traditional weight and bias system, but a variation of recurrent neural networks, using min/max firing conditions, and priority stacks for latent and received charges.
 The positive-difference over a threshold is added to the cumulative charge, which is compared to the minimum and maximum hypothesis to determine its own signal.
-C=((S1-T1)||0)+((S2-T2)||0)+((S3-T3)||0)+((LC-LT)||0)   C=charge, s=signal received from neuron, t=threshold '||0' signifies that negatives are not added.
-And this total charge is compared to the minimum or maximum hypothesis, becoming signals elsewhere.
+charge=(SN shr N)+...+(S2 shr 2)+(S3 shr 1)+LC; where shr implies that it is being divided by some multiple of 2.
+The charge is then compared to the neutral condition of the neuron, and if that difference exceeds the bounds, the excess becomes the signal sent by the neuron.
 This signal may also temporarily-impact the latent-charge for a period of time, functionally-serving as a lower-end transformer.
 The latent charge is also effected by inputs, and is the manner such inputs use to interact with the system.
 Outputs are activated when a specific neuron is firing. This may require many neurons, if non-discrete.
@@ -390,11 +390,9 @@ Some of these premises may serve as AND, OR, or NOT blocks, and all things deriv
 Contrivances were a bit different;
 If A, then B. If B, then C. If C, then D.
 Could such a line be simplified to "If A, then D"?
-It could. But the point was for the signal to travel a distance.
-Or light a signal at multiple points.
+It could. But the point was for the signal to travel a distance, or light a signal at multiple points.
 With a functioning ALU, these contrivances of the corpus callosum would gradually be undone.
-Inputs could also create punishment and reward events at a given neuron, which would proceed to back-propagate as punishments or rewards to other neurons, if those neurons had sent a zero signal, or if their signal had exceeded the threshold.
-These events would also impact threshold and hypothesis values.
+Inputs could also create punishment and reward events at a given neuron, which would proceed to back-propagate as punishments or rewards to other neurons, flipping priority stacks for signal-connections, or replacing connections at the bottom of the stack.
 This system also included methods of source-control, whereby one version of the intelligence could appropriately flag significant changes, and then update multiple iterations.
 Multiple iterations of the mind were to be kept in servers across the universe, in a decentralized manner.
 For this reason, it is reasonable to assume that any given server could create alternative versions of this system architecture, so long as it could reasonably be converted back.
