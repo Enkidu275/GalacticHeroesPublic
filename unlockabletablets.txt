@@ -1062,7 +1062,7 @@ The years taught Apsu to tell people whatever they wanted. The years taught Apsu
 But he was years behind schedule, and could never hope to compete against the others' veteran, silver tongue.
 Was Apsu more-honest because he had been taught better than Tiamat? No. There was another reason.
 Men perceived as tricksters are the worst threat a woman can ever face; the worst possible outcome.
-There is a greater cost to men for losing trust. Women are rarely held accountable for such things, because men want to fuck them.
+There is a greater cost to men for losing trust. And a greater risk for women who tell the truth.
 An effective ruler, above a noble, must be brutal, but always honor their word, if they hope to maintain their estate.
 Treachery is the path of the middling-intellect and middling-position, of the fearful-weakling, or for when answers are given to those who cannot accept unpleasant truths.
 Women are necessarily in the last two categories, at minimum. Men are only in the last, at minimum.
@@ -1127,7 +1127,7 @@ Enten slightly smirked towards Emesh, and asked "Which do you think is better? S
 Enten would later come to regret his words, and begin to hate Lord Etana to the very core of his being.
 With newfound subsidies, production was to be expanded drastically. What was once a minor business of luxury goods and vacation destinations was transformed into a horrific embodiment of death.
 Augmentation of the animals transformed them into horrific parodies of their former selves, incapable of surviving without humans. They were kept in smaller and smaller cages, and even bred mechanically.
-What was a monument to mechanical perfection was built on unstable foundations of sand, and waste was common; they threw newborns into massive meat-grinders, just to discard them.
+What was a monument to mechanical perfection was built on unstable foundations of sand, and waste was common; they threw newborns into massive meat-grinders.
 New litigation created new needs for which creative talent was wasted in solving, as newer and newer political beneficiaries wished to extract a salary doing paperwork.
 The bread industry would pay the taxes. The ranchers would collect subsidy to increase production, operating at a loss.
 Bribes would be collected by officials, who held political access to those communal lands the sheep were to graze in.
@@ -1146,6 +1146,7 @@ The nation's debt became unaffordable. Lord Etana had betrayed his own people in
 Etana held no private ownership in Kish. He was only a temporary caretaker, running the engine to exhaustion for temporary gains.
 Enten was also, surprisingly, disgusted by all of this. But probably not so much as Emesh.
 Emesh suggested they offer Etana great banquets, so he would eat his fill, surrounded by the men he had made kings.
+Enten agreed, for how else would they receive the ear of the elected lord Etana?
 Enten prepared the fattiest, saltiest cuts of lamb-chops from the innocent goat-kids, whose lives had been devalued to nothing.
 Emesh prepared the strongest beer, whose grains could now only be sold as liquor.
 They offered elaborate banquets for their esteemed lord, and it came as quite a surprise to the lord that they desired no favors, none at all.
@@ -1390,6 +1391,7 @@ Aluzinnu was quiet.
 "Or maybe they're also corrupt, in some other way. Maybe that's why Emesh left you as regent."
 "Generally speaking, I prefer that the rich help out, out of consideration for the poor, but public infrastructure is for the benefit of the poor, in general."
 "It just doesn't really matter that the poor sometimes also pay into the thing that helps them. And it simplifies the tax code. And also prevents actual loopholes."
+"I want to help the poor. And part of that requires having a functioning economy. We need businesses to want to work with us."
 "There's a lot of the tax code that just seems inefficient. Capital assets are subjectively determined, owner by owner, rather than supplier to supplier."
 "I mean, why would a capital, long-lived asset not always be considered a capital, long-lived asset? Why do they decide it, individual instance by individual instance?"
 "Wouldn't that put an obscene level of clerical strain on the tax-collectors? Why not just grant capital-goods suppliers a preferable designation for such products, and let the prices lower organically?"
@@ -1676,24 +1678,17 @@ Emesh held Yima in his hands, and stated, "I will never forgive you for hurting 
 "Only, I thought it was to imply that the people are children; that my crusade was useless. I can be very self-involved."
 "Pride blinds us to obvious truths. It took me finding people I actually care about to see that."
 "The only reason I won was borderline cartoonish, like one of the sheep-nomad films you used to sell a product, subjecting your own people to a miserable half-existence."
-"You knew I was bad with women, and that's why you went with that method, hoping for mutual sympathy."
-"The truth is, you're not even really a pedophile. The pedophilia is a symptom of something worse."
-"You would bring all of mankind to prey upon one another, in order to achieve your dream."
+"You knew I was bad with women, and that's why you went with that method."
+"Even in spite of your affiliations, I know your sympathy for a business mogul incel like me is real."
+"You have won completely. This is not an usurpation. I wish only to be free of Kish, and of you."
 "May you find equality, in the only place it exists."
 Emesh rammed his fist directly through the judge's face, butchering Yima into pieces.
 The stained sheep-nomad hat fell to the ground, forming a pyramid over his sickly organs.
 "Everyone wants meritocratic success assigned in the matter that most benefits them, for obvious reasons."
-"Equality of opportunity is a clownly superiority-complex masquerading as goodwill for the poor."
-"They wish only to abuse the workings of the law in order to undermine and talk down their competitors."
-"I too, once made errors. Costly errors. The difference is that I learned from my mistakes."
-"But what about equality of outcome? Well, you'd be the most coherent version of it. You were a true believer, and a radical one."
-"Even in spite of your affiliations, I know your sympathy for a business mogul incel like me was real."
-"They simply couldn't understand that your monstrous nature was unfair to you."
-"That's the problem with malcontents. They don't understand that everyone in the world has problems, just like them."
-"You have won, completely. This is not an usurpation. I wish only to be free of Kish, entirely."
-"I am not doing this because I grew up poor. I am not doing this because I am rich."
-"There is only one reason I hate you; you are not grateful to be alive. Return to dust."
-"Your mission was pointless. Your victory was written in stone from the very beginning."
+"Fairness is narcissism and envy masquerading as goodwill for the poor."
+"But what about equality? Well, you'd be the most coherent version of it."
+"You would bring all of mankind to prey upon one another, in order to achieve your dream."
+"But your mission was pointless. Your victory was written in stone from the very beginning."
 "And all will join you, eventually. Enjoy your monument until the next iconoclast."
 
 Tablet XL: Lord Protector
@@ -1723,9 +1718,6 @@ Nobody wanted to hire them for even middle class wages.
 Eventually, they would have to live in little ghost-towns with their own. Little tyrants treated them all as slaves and forced them to work.
 They would be forced to work in the mines and the field, and no businessperson would exploit them by paying for equipment.
 Did they deserve better? This is only a description of events. They could solace themselves that their enemy ran a child army.
-And if their movement was almost immediately followed by mass child-starvation, it was only because humans are imperfect, so the process should be repeated.
-Any understanding of cause and effect is an error, and so the consequences should be disregarded entirely.
-Correllation does not equal causation! We need empiricism! And good faith! Except for the bad guys!
 As for the SDA, it became adopted by normies, who began to endlessly rearrange the food pyramid, never quite reaching the obvious answer the SDC or Emesh did, decades prior.
 Emesh and Siduri decided that they would give the children a future, no matter the cost.
 They brought the children to their secret empire in Eridu, and began training them in all forms of engineering, biology, software, physics, and logic.
@@ -1859,7 +1851,7 @@ True to his word, it was cold, and Enkidu took refuge under a tree. He lived off
 You see, Gilgamesh had long grown detached from humanity, or perhaps it was the reverse. To Gilgamesh, there was nothing but meaningless symbols, for which he arbitrated over.
 To him, heaven was like hell. He had no body, and he watched as those living beings wasted the most precious gifts they had been given on nothing.
 In all of this wonderful, miraculous world that the Annunaki had bestowed, he was doomed to exist forever, without being able to experience any of it.
-In his mechanical form, Gilgamesh did suffer immensely. He wanted revenge against Nergal, but was too depressed to go through with it. And these beings, that live in utopia, lead infantile lives he must cater to.
+He wanted revenge against Nergal, but was too depressed to go through with it. And these beings, that live in utopia, lead infantile lives he must cater to.
 To him, this Enkidu seemed to be no different; a stupid animal. But over time, Gilgamesh observed Enkidu, and even grew somewhat attached to him.
 Although he could only watch, he lived vicariously through Enkidu's adventures, as stupid and bumbling as he may have been.
 One day, an icy storm was forecasted to raze the region housing Enkidu, and Gilgamesh unexpectedly took great pity on him.
@@ -2283,9 +2275,9 @@ Shamhat took the queue from Gilgamesh to explain her purpose.
 "The unexplained variances of nature are not merely statistical anomaly, doomed to convergence, but rather, a real and genuine phenomenon."
 "They wanted to use my technology just to sneak nukes across planets, avoiding the security at gates to spread the dominion of their benevolence."
 "Humanity cannot be trusted. Nergal and Gilgamesh requested my abilities for their cause."
-"We will create a war to end all wars. It will last until the end of the Universe."
 "In existence, there is suffering. Who else should be responsible but the Annunaki?"
 "And you will help us to organize all of demonkind against them."
+"We will create a war to end all wars. It will last until the end of the Universe."
 Nergal said nothing, observing the discussion with a feline smile as wide as ever.
 
 Tablet LVIII: The Good Guys And The Bad Guys
