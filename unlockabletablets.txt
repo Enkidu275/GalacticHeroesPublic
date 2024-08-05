@@ -376,14 +376,21 @@ Enki, handling the data manually, held the greatest possible incentive to find e
 For Erishkigal; her works were her own, she did not rely on libraries that may contain unnecessary instruction-sets, or bloat.
 And this was important for a simple reason; truly new innovations were not built on the libraries of others.
 For something to be truly unique, a programmer would need to tread in their own footsteps, and could not rely upon libraries.
-Erishkigal had found a way to create virtual copies of human memories.
-Innana would punch the light out of humans many times, leading to their death. That light would be detected by a sheet behind them. Technology would map out the neural pathways of the individual, with multiple iterations.
-The end result would upload a namespace document of the human as an executable to servers across the universe.
+It is also the case that human ideas themselves were of little use to something as simple and mechanical as what she had in mind.
+"Negative numbers do not exist. There is nowhere in the universe where you can point out a negative number of objects."
+"Just like multiplication, division, calculus and algebra; these concepts exist to simplify ideas of compilation and relativity."
+"A neuron does not send out a negative signal, whatever that would imply."
+"A neuron is not observing indiscrete combinations of signals with shifting distributions from thousands of sources."
+"And there are no clear delineations between an input-receiver, an intermediary, or an output-emitter."
 Voltage signals from the iterations would be used to determine alignment, as well as the significance one axon had to a given dendrite.
 It wasn't a traditional weight and bias system, but a variation of recurrent neural networks, using min/max firing conditions, and priority stacks for latent and received charges.
 The positive-difference over a threshold is added to the cumulative charge, which is compared to the minimum and maximum hypothesis to determine its own signal.
 charge=(SN shr N)+...+(S2 shr 2)+(S3 shr 1)+LC; where shr implies that it is being divided by some multiple of 2.
+But any similarity of this model to a number in byte-form is purely coincidental. It is better that it be thought of as a mutating defmodule of possible conditions for firing.
 The charge is then compared to the neutral condition of the neuron, and if that difference exceeds the bounds, the excess becomes the signal sent by the neuron.
+The firstmost dendrite always has first priority, but there are a number of conditions by which underling-dendrites may override the first's decision, according the neutral-charge state.
+If the next bit in the neutral charge state is 0, and the next two dendrites have a signal, this may express a suitable overriding condition.
+But this is an optional condition that can be systemically deactivated at a moment's notice, in favor of simplicity.
 This signal may also temporarily-impact the latent-charge for a period of time, functionally-serving as a lower-end transformer.
 The latent charge is also effected by inputs, and is the manner such inputs use to interact with the system.
 Outputs are activated when a specific neuron is firing. This may require many neurons, if non-discrete.
@@ -402,6 +409,9 @@ A short version is that the relevant pathways resemble an ALU-lookup, but also, 
 With a functioning ALU, these contrivances of the corpus callosum would gradually be undone.
 Inputs could also create punishment and reward events at a given neuron, which would proceed to back-propagate as punishments or rewards to other neurons, flipping priority stacks for signal-connections, or replacing connections at the bottom of the stack.
 This system also included methods of source-control, whereby one version of the intelligence could appropriately flag significant changes, and then update multiple iterations.
+Erishkigal had found a way to create virtual copies of human memories.
+Innana would punch the light out of humans many times, leading to their death. That light would be detected by a sheet behind them. Technology would map out the neural pathways of the individual, with multiple iterations.
+The end result would upload a namespace document of the human as an executable to servers across the universe.
 Multiple iterations of the mind were to be kept in servers across the universe, in a decentralized manner.
 For this reason, it is reasonable to assume that any given server could create alternative versions of this system architecture, so long as it could reasonably be converted back.
 Fracture-prevention was implied, and champions held every incentive to become like gods.
