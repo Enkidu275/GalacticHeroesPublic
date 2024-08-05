@@ -303,13 +303,14 @@ The Queens responded, "That's completely autistic. So simmer down."
 "But also, you have a fundamental misunderstanding of why the sword brought Elam into modernity."
 "A warrior master isn't actually competent at managing slave farmhands."
 "With a sword, the victor was not always determined to be the biggest, but sometimes also the smartest."
+"Which gave farmers enough power to tip the balance away from warriors, by disadvantaging the uncooperative or least-pleasant one's."
 "No. We Queens believe it is a matter of moksha that we, in fact, go in the opposite direction. We will create a hundred genders."
 "There is a purpose to a division of labor, for it streamlines processes down to an assembly line."
 "One member to raise the young. One member to fight. One member to gather resources. One member to build things."
 "We are Queens. We exist to get pregnant and have babies. And what better army is there than that of an ant colony?"
 The Patriarchy was instantly cured of their autism and homosexuality.
 "We thought you were stupid the entire time, but you have shown us that you are truly wise beyond your years!"
-The Queens responded, "Yes. We mature quickly. It's necessary, as soon, we reach menopause."
+The Queens responded, "Yes. We mature quickly. It is necessary, as soon, we reach menopause."
 "You have shown us the error of our ways. Now, it is time for eugenics!" chanted the Patriarchy.
 The Queens responded, "Yes, we will begin the gene-splicing experiments immediately."
 Imagine, if you will, a man and a woman who are each ambitious, but each wish to reproduce.
@@ -395,6 +396,9 @@ Contrivances were a bit different;
 If A, then B. If B, then C. If C, then D.
 Could such a line be simplified to "If A, then D"?
 It could. But the point was for the signal to travel a distance, or light a signal at multiple points.
+This is not the only purpose of the corpus callosum, as another feature is to identify correlating neurons as being possibly connected.
+Signal-records of a neuron are also hashed into an array with the original pointer to the neuron emitting the signal.
+A short version is that the relevant pathways resemble an ALU-lookup, but also, the endpoints have MOV pipes pointing to their shift-right-one counterparts.
 With a functioning ALU, these contrivances of the corpus callosum would gradually be undone.
 Inputs could also create punishment and reward events at a given neuron, which would proceed to back-propagate as punishments or rewards to other neurons, flipping priority stacks for signal-connections, or replacing connections at the bottom of the stack.
 This system also included methods of source-control, whereby one version of the intelligence could appropriately flag significant changes, and then update multiple iterations.
@@ -1387,10 +1391,14 @@ Siduri seemed to re-engage, and explained, "Emesh, like me, has become immortal.
 "No. It's because businesses would leave. They wouldn't be able to turn a profit, or the profit wouldn't be worth the hassle. The workers just don't add enough value to be worth it."
 "And even if that wasn't the case, they could easily circumnavigate higher tax brackets, by hiring friends and family members to use as functional piggy banks."
 "Which is obviously easier than incorporating in places separate from where operations are handled."
+"I mean, just look at this establishment we are in. We buy some number of things, they also offer us some number of free amenities, but there is also some reasonable expectation that we pay them something."
+"The store owner may be more forgiving of a man in a wheelchair, obviously. She's running an establishment, and needs it to operate."
+"And we abide by the rules while we are here."
+"If things go well, an owner can also get trusted helpers to manage the place in exchange for some agreed upon quantity or portion of the spoils."
 Aluzinnu was quiet.
 "Or maybe they're also corrupt, in some other way. Maybe that's why Emesh left you as regent."
 "Generally speaking, I prefer that the rich help out, out of consideration for the poor, but public infrastructure is for the benefit of the poor, in general."
-"It just doesn't really matter that the poor sometimes also pay into the thing that helps them. And it simplifies the tax code. And also prevents actual loopholes."
+"It just doesn't really matter that the poor sometimes also pay into the thing that helps them. And it simplifies the tax code. And prevents actual exploits."
 "I want to help the poor. And part of that requires having a functioning economy. We need businesses to want to work with us."
 "There's a lot of the tax code that just seems inefficient. Capital assets are subjectively determined, owner by owner, rather than supplier to supplier."
 "I mean, why would a capital, long-lived asset not always be considered a capital, long-lived asset? Why do they decide it, individual instance by individual instance?"
@@ -1407,7 +1415,7 @@ Siduri immediately approached Emesh, and stood by his side. She seemed calmer th
 "I told you we'd meet him. Sorry for the misunderstanding." Aluzinnu had taken her non-response from before as tacit compliance.
 "But, why would you-"
 "Thank you for bringing me my priestess Siduri, Aluzinnu. But the two of us have work to attend to."
-Aluzinnu looked at that gold-digging skank, and that nerdy, little billionaire. Then he left.
+Aluzinnu looked at that gold-digging skank, and that nerdy, little billionaire. Then he left. This was unfair.
 
 Tablet XXXIII: Secret Empire
 Siduri learned much of what Emesh had been up to while he was gone. Emesh had gone to a dessert planet so that the scale of experimentation could be small.
