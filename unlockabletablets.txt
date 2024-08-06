@@ -382,6 +382,8 @@ It is also the case that human ideas themselves were of little use to something 
 "A neuron does not send out a negative signal, whatever that would imply."
 "A neuron is not observing indiscrete combinations of signals with shifting distributions from thousands of sources."
 "And there are no clear delineations between an input-receiver, an intermediary, or an output-emitter."
+"However, a binary neural network does not also accurately reflect the multitude of dendrites that exist, and it is harder to stabilize connections."
+"For as simplistic and appealing are an and/or attached to an is/not in a binary neural network, it doesn't quite resemble neurons."
 Voltage signals from the iterations would be used to determine alignment, as well as the significance one axon had to a given dendrite.
 It wasn't a traditional weight and bias system, but a variation of recurrent neural networks, using min/max firing conditions, and priority stacks for latent and received charges.
 The positive-difference over a threshold is added to the cumulative charge, which is compared to the minimum and maximum hypothesis to determine its own signal.
