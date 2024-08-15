@@ -1,27 +1,34 @@
-Sword - short, fast melee
-Axe - short melee, shield breaker, slow
-Spear - long, slow melee, first-strike, can be thrown
-Staff - Parrying, short melee
+Sword - one-hand, short, fast melee
+Axe - one-hand, melee, shield breaker, slow
+Spear - one-hand, long, slow melee, first-strike, can be thrown
+Staff - two-hand, Parrying, short melee
 
 Stones - created, fast projectile, low priority, low range melee
-Sling - slow projectile, friendly fire concern
-Bow - slow projectile, requires arrows
-Atlatl - High damage, fetching
+Sling - one-hand, slow projectile, friendly fire concern
+Bow - two-hand, slow projectile, requires arrows
+Atlatl - one-hand, High damage, fetching
+Sixshooter - fires silver. lethal superweapon.
 
 Shield - prevent damage
 Flail - disarm, counter
+Net - highly impractical weapon
 Harp - Song of Swords, Dirt, Execution
-Pocket Sand - effective against helmet, blinding, anti-range
+Pocket Sand - extra effective against most helmets, blinding
 
+Helmet - prevents critical damage
 Crown - prevents sin, enables proclamation
 Mask - confuse NPCs and servitors if relevant
+Gas Mask - prevents pocketsand, meth, fire
 
-Tunic - damage reduction
+Tunic - projectile reduction
+Chainmail - melee reduction
 Cape - fire prevention
 Belt - theft prevention
+Quiver - more arrows
 
-Fire - 
-Beer - Damage Prevention, no ranged
+Bread - prevents starvation
+Beer - Damage Reduction, no ranged, pair fire as molotov
 Meth - Namtarra/overdose mode, can be used as pocketsand
 Poison - combine with other weapons for eventual death
 Medicine - heals and removes defects
+
