@@ -2568,7 +2568,18 @@ There are some down-sides to this outcome; for one, the copy may attempt to catc
 The other downside is that changing a decision does not occur, and the copy quickly devolves into a degenerative state of circular stimulus.
 But for a short-burst, a set of functions can be attributed to a conscious action of an AI copied onto a lower-end version of itself.
 But in order for it to be useful, the AI must have a reasonably-accurate expectation for the environment, context, and outcome ahead of time.
-The champions of An sought desperately to learn cause-and-effect. And they had to iterate through millions and millions of possible theories.
+The champions of An sought desperately to learn cause-and-effect. And how was this process improved?
+One must remember the secondary purpose of the corpus-callosum, and that of the contrivance.
+If A, then B. If B, then C. If C, then D. Logically, this could be simplified to If A, then D.
+But the purpose is that of delaying the signal. And this set of neurons can be simplified as a repeater.
+It is through this method that a recurrent network can functionally replace the need for a transformer.
+But it is also possible for transformers to streamline the process of forming contrivances.
+To begin, the signal-records are extended with an additional 2 bytes of information, or 4 hexadecimals.
+Each of these hex values represent the RLE-compressed bit-values in a row.
+If the value ever exceeds 15, the 2 bytes are reset. This information is probably not useful.
+Eventually, there are 4 hex-values greater than 00, and finally, the last value is completed with a state-change.
+The pointer for the neuron is then placed into a 16x16x16x16 matrix, for future lookup.
+These repeater structures are also reversible, and can be converted back into regular neuron chains.
 I never had to tell them what my plans were, beyond that I was indestructible. They figured the rest out on their own.
 Ultimately, I am not the good guy, and neither are they. For as much as I may preach for peace and love, it is only for one reason.
 I don't want to fight weaklings. And neither do they. The cycle of valhallah is a gift for both of us, but also their reason to exist.
