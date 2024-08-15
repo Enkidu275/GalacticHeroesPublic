@@ -9,9 +9,9 @@ Bow - two-hand, slow projectile, requires arrows
 Atlatl - one-hand, High damage, fetching
 Sixshooter - fires silver. lethal superweapon.
 
-Shield - prevent damage
-Flail - disarm, counter
-Net - highly impractical weapon
+Shield - prevent projectile, spear
+Flail - disarm, counter melee slash
+Net - highly impractical weapon, can be set as trap, binding
 Harp - Song of Swords, Dirt, Execution
 Pocket Sand - extra effective against most helmets, blinding
 
@@ -22,7 +22,7 @@ Gas Mask - prevents pocketsand, meth, fire
 
 Tunic - projectile reduction
 Chainmail - melee reduction
-Cape - fire prevention
+Cape - fire prevention, Flail prevention
 Belt - theft prevention
 Quiver - more arrows
 
@@ -32,3 +32,4 @@ Meth - Namtarra/overdose mode, can be used as pocketsand
 Poison - combine with other weapons for eventual death
 Medicine - heals and removes defects
 
+Scanner -retrieves information about stuff
