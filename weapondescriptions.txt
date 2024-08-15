@@ -1,0 +1,27 @@
+Sword - short, fast melee
+Axe - short melee, shield breaker, slow
+Spear - long, slow melee, first-strike, can be thrown
+Staff - Parrying, short melee
+
+Stones - created, fast projectile, low priority, low range melee
+Sling - slow projectile, friendly fire concern
+Bow - slow projectile, requires arrows
+Atlatl - High damage, fetching
+
+Shield - prevent damage
+Flail - disarm, counter
+Harp - Song of Swords, Dirt, Execution
+Pocket Sand - effective against helmet, blinding, anti-range
+
+Crown - prevents sin, enables proclamation
+Mask - confuse NPCs and servitors if relevant
+
+Tunic - damage reduction
+Cape - fire prevention
+Belt - theft prevention
+
+Fire - 
+Beer - Damage Prevention, no ranged
+Meth - Namtarra/overdose mode, can be used as pocketsand
+Poison - combine with other weapons for eventual death
+Medicine - heals and removes defects
