@@ -408,7 +408,7 @@ If a dendrite was at the bottom of the stack, it might be removed or replaced wi
 Punishments and rewards would shift the order of the stack, and the maximum or minimum firing conditions.
 It would also propagate backwards as punishments or rewards to those neurons for which it received a signal.
 Sets of virtual neurons would organically become inputs, premises, or contrivances;
-A premise functionally served as a logic gate, and a contrivance was only for spreading the signal elsewhere.
+A premise functionally served as a logic gate, and a contrivance was only for spreading or delaying a signal.
 When one premise is fired, it is reasonable to assume that many other premises were simultaneously fired.
 "It is day" premise can be attributed from "The sky is blue" or "The clock is between 11am and 5pm", and those premises have their own priors as well.
 Some of these premises may serve as AND, OR, or NOT blocks, and all things derive from it. These premises are to be created and maintained organically.
