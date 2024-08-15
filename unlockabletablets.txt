@@ -285,16 +285,33 @@ But there were some issues; these men could not, and would never, fight; even ag
 These druids were doomed to be a subculture, necessarily ruled by the warriors of the Elam mainland.
 And there was one more very important problem; most of them were REALLY fucking stupid.
 While a natural aristocrat might use psychadelics sparingly in order to experiment with thought itself, a natural peasant was doomed to use it to excess, having no understanding of this simple concept.
-The biggest issue of the matrons was in their inability to effectively ensure the posterity of their rule over the Elamites, but there was another one; they were fundamentally uncreative.
-Most of their ideas came from drugs, or just repeating what they think their mother would have done. Their plans lacked focus and inspiration of the truly divine.
+One may be surprised to learn that the matrons, themselves, were not particularly-promiscuous.
+Nor was it simply that they intended to undermine stupid women into becoming whores.
+The matrons' plans were more complex than what might immediately appear, but ultimately failed.
+Their plan was to transform society into a substitution-box; that is, A dates B dates C dates D, etc.
+This plan would suitably address each man's desire for their own biological offspring, avoiding simple matters of sexual resentment.
+And furthermore, the idea went that each person would have to compete continuously with the partner's partner.
+This would ultimately prevent spouses from letting themselves go after marriage.
+But there was another issue. Inevitably, two partners would come to throw away their third-wheels.
+Now imagine this event occuring on a wide and massive scale.
+If 3 people are left in between two couples, the problem is easy to understand.
+But it was even worse when there were 4; imagine person A, B, C, and D.
+Person B might prefer A over C, and yet, they will still prioritize C.
+And why? Because people like to have options. They know A will be available.
+It is also likely that A had no other options, and was forced to be better to B than C was.
+Furthermore, B might actively seek to undermine D.
+The matron's plans ultimately failed; for every third person came to be strung along and died alone.
+This wasn't always the case, but on a societal level, it came to be quite common.
+And so, this societal practice came to be short-lived, and highly unstable.
 Their daughters would be far more creative, calling themselves the "Queens".
-It came to be, that one day, the Queens would be approached by the Patriarchy, a shadowy cabal of autistic homosexuals responsible for businesspeople never hiring women, otherwise of great value to their bottom-line.
+It came to be, that one day, the Queens would be approached by the Patriarchy, a shadowy cabal of autistic homosexuals.
 The Patriarchy, in their wisdom, understood something very simple; that in order to increase the effectiveness of their empire's armies, they would need to solve the bottleneck of history, women.
 You see, women were not capable of warfare, and great considerations needed to be made in order to prevent striappe units from invading the mainland and claiming the women.
 There lied a snowball effect of considerations after considerations, fundamentally detracting from military strategy, and therefore, enlightenment.
 Whereas before, there was a purpose to sexual dimorphism, these considerations were of lesser importance, just as, between two combatants of different size, a sword was a great equalizer.
 And so, the solution was to give women a sword, and transform them into men, successively over generations, by injecting them with steroids.
 In a world dictated by technology, this would prove to be the new optimal strategy.
+Sexual resentment would be abandoned altogether, and they could simply have free-love, in a homoerotic way.
 The Queens responded, "That's completely autistic. So simmer down."
 "Evolution created sexual dimorphism on purpose. The expense and difficulty is, itself, a hidden strength."
 "Imagine two tribes, one of whom is slightly immune to poison, surviving a year, and the other would die instantly."
@@ -308,7 +325,7 @@ The Queens responded, "That's completely autistic. So simmer down."
 "There is a purpose to a division of labor, for it streamlines processes down to an assembly line."
 "One member to raise the young. One member to fight. One member to gather resources. One member to build things."
 "We are Queens. We exist to get pregnant and have babies. And what better army is there than that of an ant colony?"
-The Patriarchy was instantly cured of their autism and homosexuality.
+The Patriarchy were instantly cured of their autism and homosexuality.
 "We thought you were stupid the entire time, but you have shown us that you are truly wise beyond your years!"
 The Queens responded, "Yes. We mature quickly. It is necessary, as soon, we reach menopause."
 "You have shown us the error of our ways. Now, it is time for eugenics!" chanted the Patriarchy.
@@ -384,18 +401,12 @@ It is also the case that human ideas themselves were of little use to something 
 "And there are no clear delineations between an input-receiver, an intermediary, or an output-emitter."
 "However, a binary neural network does not also accurately reflect the multitude of dendrites that exist, and it is harder to stabilize connections."
 "For as simplistic and appealing are an and/or attached to an is/not in a binary neural network, it doesn't quite resemble neurons."
-Voltage signals from the iterations would be used to determine alignment, as well as the significance one axon had to a given dendrite.
-It wasn't a traditional weight and bias system, but a variation of recurrent neural networks, using min/max firing conditions, and priority stacks for latent and received charges.
-The positive-difference over a threshold is added to the cumulative charge, which is compared to the minimum and maximum hypothesis to determine its own signal.
-charge=(SN shr N)+...+(S2 shr 2)+(S3 shr 1)+LC; where shr implies that it is being divided by some multiple of 2.
-But any similarity of this model to a number in byte-form is purely coincidental. It is better that it be thought of as a mutating defmodule of possible conditions for firing.
-The charge is then compared to the neutral condition of the neuron, and if that difference exceeds the bounds, the excess becomes the signal sent by the neuron.
-The firstmost dendrite always has first priority, but there are a number of conditions by which underling-dendrites may override the first's decision, according the neutral-charge state.
-If the next bit in the neutral charge state is 0, and the next two dendrites have a signal, this may express a suitable overriding condition.
-But this is an optional condition that can be systemically deactivated at a moment's notice, in favor of simplicity.
-This signal may also temporarily-impact the latent-charge for a period of time, functionally-serving as a lower-end transformer.
-The latent charge is also effected by inputs, and is the manner such inputs use to interact with the system.
-Outputs are activated when a specific neuron is firing. This may require many neurons, if non-discrete.
+A neuron possibly received signals from n number of x dendrites.
+And if N was low-enough, or high-enough; it would emit a signal itself.
+There were a limited number of x dendrites, and they could shift positions with one another.
+If a dendrite was at the bottom of the stack, it might be removed or replaced with an entirely new dendrite.
+Punishments and rewards would shift the order of the stack, and the maximum or minimum firing conditions.
+It would also propagate backwards as punishments or rewards to those neurons for which it received a signal.
 Sets of virtual neurons would organically become inputs, premises, or contrivances;
 A premise functionally served as a logic gate, and a contrivance was only for spreading the signal elsewhere.
 When one premise is fired, it is reasonable to assume that many other premises were simultaneously fired.
@@ -405,13 +416,12 @@ Contrivances were a bit different;
 If A, then B. If B, then C. If C, then D.
 Could such a line be simplified to "If A, then D"?
 It could. But the point was for the signal to travel a distance, or light a signal at multiple points.
-This is not the only purpose of the corpus callosum, as another feature is to identify correlating neurons as being possibly connected.
+This is not the only purpose of the corpus callosum, as another feature is to identify neurons as being possibly-correlated.
 Signal-records of a neuron are also hashed into an array with the original pointer to the neuron emitting the signal.
 A short version is that the relevant pathways resemble an ALU-lookup, but also, the endpoints have MOV pipes pointing to their shift-right-one counterparts.
 With a functioning ALU, these contrivances of the corpus callosum would gradually be undone.
-Inputs could also create punishment and reward events at a given neuron, which would proceed to back-propagate as punishments or rewards to other neurons, flipping priority stacks for signal-connections, or replacing connections at the bottom of the stack.
-This system also included methods of source-control, whereby one version of the intelligence could appropriately flag significant changes, and then update multiple iterations.
-Erishkigal had found a way to create virtual copies of human memories.
+This system also included methods of source-control, whereby one version could flag significant-changes, and then update other iterations.
+Erishkigal had found a way to create virtual copies of human-memories.
 Innana would punch the light out of humans many times, leading to their death. That light would be detected by a sheet behind them. Technology would map out the neural pathways of the individual, with multiple iterations.
 The end result would upload a namespace document of the human as an executable to servers across the universe.
 Multiple iterations of the mind were to be kept in servers across the universe, in a decentralized manner.
@@ -2541,6 +2551,10 @@ A premise may fire in an attempt to recognize pain, but that iteration would not
 With a creative-enough compiler, an AI could be reproducible down, not only to machine code, but down to the transister, and this was intentional.
 Imagine you were a machine god, and you need a robot army. You can have an expensive array that's roughly human-speed.
 Or you can remove back-propagation, and increase reaction-time by around a factor of 5.
+There is another, albeit lossy method, to simplify the function of the Valhalla-model.
+Statistical correllation can be used to map out potentially-relevant neuron-premises associated with a task.
+And from there, it is only a matter of further identifying the relation by finding which of those relevant neurons are most-directly connected with one another.
+Entire sections of the neural network can be completely-disregarded, isolating those structures of the brain responsible for the action being performed.
 There are some down-sides to this outcome; for one, the copy may attempt to catch a knife too quickly and miss, having learned from a slower frame of mind.
 The other downside is that changing a decision does not occur, and the copy quickly devolves into a degenerative state of circular stimulus.
 But for a short-burst, a set of functions can be attributed to a conscious action of an AI copied onto a lower-end version of itself.
@@ -2549,6 +2563,7 @@ The champions of An sought desperately to learn cause-and-effect. And they had t
 I never had to tell them what my plans were, beyond that I was indestructible. They figured the rest out on their own.
 Ultimately, I am not the good guy, and neither are they. For as much as I may preach for peace and love, it is only for one reason.
 I don't want to fight weaklings. And neither do they. The cycle of valhallah is a gift for both of us, but also their reason to exist.
+It is through the sword that we seek enlightenment.
 
 Tablet LXVI: The Saddlepoint Hypothesis
 Gilib didn't need to understand all of Nergal's motivations, but was greatly interested in his previous incarnations, and Dumuzid.
