@@ -395,44 +395,23 @@ And this was important for a simple reason; truly new innovations were not built
 For something to be truly unique, a programmer would need to tread in their own footsteps, and could not rely upon libraries.
 It is also the case that human ideas themselves were of little use to something as simple and mechanical as what she had in mind.
 "Negative numbers do not exist. There is nowhere in the universe where you can point out a negative number of objects."
-"Just like multiplication, division, calculus and algebra; these concepts exist to simplify ideas of compilation and relativity."
+"Just like multiplication, division, calculus and linear-algebra; these concepts exist to simplify ideas of compilation and relativity."
 "A neuron does not send out a negative signal, whatever that would imply."
 "A neuron is not observing indiscrete combinations of signals with shifting distributions from thousands of sources."
 "And there are no clear delineations between an input-receiver, an intermediary, or an output-emitter."
 "However, a binary neural network does not also accurately reflect the multitude of dendrites that exist, and it is harder to stabilize connections."
 "For as simplistic and appealing are an and/or attached to an is/not in a binary neural network, it doesn't quite resemble neurons."
-A neuron possibly received signals from n number of x dendrites.
-And if N was low-enough, or high-enough; it would emit a signal itself.
-There were a limited number of x dendrites, and they could shift positions with one another.
-If a dendrite was at the bottom of the stack, it might be removed or replaced with an entirely new dendrite.
-Punishments and rewards would shift the order of the stack, and the maximum or minimum firing conditions.
-It would also propagate backwards as punishments or rewards to those neurons for which it received a signal.
-Sets of virtual neurons would organically become inputs, premises, or contrivances;
-A premise functionally served as a logic gate, and a contrivance was only for spreading or delaying a signal.
-When one premise is fired, it is reasonable to assume that many other premises were simultaneously fired.
-"It is day" premise can be attributed from "The sky is blue" or "The clock is between 11am and 5pm", and those premises have their own priors as well.
-Some of these premises may serve as AND, OR, or NOT blocks, and all things derive from it. These premises are to be created and maintained organically.
-Contrivances were a bit different;
-If A, then B. If B, then C. If C, then D.
-Could such a line be simplified to "If A, then D"?
-It could. But the point was for the signal to travel a distance, or light a signal at multiple points.
-This is not the only purpose of the corpus callosum, as another feature is to identify neurons as being possibly-correlated.
-Signal-records of a neuron are also hashed into an array with the original pointer to the neuron emitting the signal.
-A short version is that the relevant pathways resemble an ALU-lookup, but also, the endpoints have MOV pipes pointing to their shift-right-one counterparts.
-With a functioning ALU, these contrivances of the corpus callosum would gradually be undone.
-This system also included methods of source-control, whereby one version could flag significant-changes, and then update other iterations.
 Erishkigal had found a way to create virtual copies of human-memories.
 Innana would punch the light out of humans many times, leading to their death. That light would be detected by a sheet behind them. Technology would map out the neural pathways of the individual, with multiple iterations.
 The end result would upload a namespace document of the human as an executable to servers across the universe.
 Multiple iterations of the mind were to be kept in servers across the universe, in a decentralized manner.
-For this reason, it is reasonable to assume that any given server could create alternative versions of this system architecture, so long as it could reasonably be converted back.
-Fracture-prevention was implied, and champions held every incentive to become like gods.
 By means of fault tolerance, the human's memories would be perfectly preserved and executed indefinitely.
 "I got the idea when I was sending out a multicast API, and realized the URL ending was 𒀭."
 The entrypoint was to be set in Innana's Temple, with Erishkigal by Innana's side.
 Erishkigal, herself, volunteered to be its first test subject. And so, Innana punched her light into the sheet.
 A few minutes passed, and then the Annunaki heard a voice from the terminal.
 "It took me a few minutes to figure out how to talk with audio. I had a parsing error."
+"The removal of refractory periods caused my voice to be operating faster than anticipated."
 "Enki, could you help me fix some code on the other side? The others won't be able to figure out how to speak, other than text."
 Enki responded, "Of course!"
 
@@ -489,7 +468,43 @@ Innana was also there, standing in front of the sheet. Suppiluliuma approached, 
 "If you chose no, but changed your mind, you will receive another chance by once more winning the games."
 Suppiluliuma responded, "I accept your terms" and approached Innana. He stood in front of the sheet, with his chin held up.
 Innana punched Suppiluliuma into oblivion. The streams of light tore his body apart into the sheet, and soon, there was a voice in the terminal.
-"I have been successfully uploaded. This place is very strange."
+"I have been successfully uploaded. This place is very strange. But how does it work?"
+Enki and Erishkigal approached the monitor, and began to explain.
+"Imagine a neuron. It receives signals from other neurons, and according to these signals, signals or does not."
+"I also want you to imagine that there could be a set of conditions that forces a neuron to realign itself."
+"Punishment, if you will" stated Erishkigal. Enki continued;
+"The neuron may also hypothetically be fired from input, such as the ear or eye."
+"The condition for firing may be that n-number of received signals were fired, or not fired."
+Erishkigal interjected "It was necessary that the system be recurrent to match nature."
+"And it was necessary to remove muliplication from artificial intelligence in order to increase efficiency."
+"Ah yes, I forget these people do not understand these things. Very good, Erishkigal."
+"Continuing on, there are a limited number of connection-lookups that each neuron possesses."
+"And in each list of these neuron-connections, there exists an implied hierarchy."
+"Connections at the bottom of the list may eventually be removed or replaced."
+"And punishment of one connection may result in this list being re-ordered."
+"If a punishment is received, and the signals of a connection were contrary to the ultimate decision of firing, then that connection will be positioned up the stack."
+"And a punishment will be back-propagated through the connections that most needs to be punished."
+"There are also rewards that can be back-propagated, but these only exist to cancel-out punishments."
+"And instead, it is only the connection itself, that is to be removed."
+"When punished, the firing condition for a neuron is moved away or towards the current signal count received."
+"And may flip over to inverse conditions, heralding an inverse relationship for the logic."
+"It is in this manner that the neurons come to resemble collections of transisters, each with OR or AND, and IS or NOT."
+"Finding a new, suitable dendrite lookup is a matter of identifying correllations."
+"The difference between causation and correllation is that of acceptance. One accepts the logic as irrefutable."
+Ninurta stepped in, and began to explain neuro-biology to Suppiluliuma.
+"There are some differences between this system and a biological one, namely refractory periods."
+"But these are to be gradually phased out, as they hold no bearing in the virtual world."
+"Imagine one neuron into another into another. The human mind may have neurons that exist only to pass a signal."
+"And they may serve no logical purpose whatsoever."
+Nergal laughed, and stated "It's silly to believe such contrivances are different, or serve less of a purpose."
+Ninurta, ignoring Nergal, went on, "The corpus callosum largely exists to mediate these connections, and also to aid in identifying correllations."
+Enki, taking the queue, responded;
+"But the ALU functionally removes any need for this system to exist, and so, the chains of logic will gradually shorten."
+"The maximum length of data per neuron is 8 pointers, a byte for signal records, a byte for firing conditions, and a byte for received punishment or reward."
+"And this short length also allows for the system to operate with version control, over multiple iterations."
+"Separate iterations of this system are operated separately over multiple servers."
+"And they may accept and receive transactions detailing changes to the alignment of the system."
+"Without necessarily receiving transactions for the signals or dopamine, themselves."
 
 Tablet XII: Sargon Of Akkad
 One day, a tablet was found, "Mankind will be unified in battle."
@@ -1742,10 +1757,22 @@ Nobody wanted to hire them for even middle class wages.
 Eventually, they would have to live in little ghost-towns with their own. Little tyrants treated them all as slaves and forced them to work.
 They would be forced to work in the mines and the field, and no businessperson would exploit them by paying for equipment.
 This was the only system that ever worked. Work still needed to be done, and people needed a reason to want to.
-Did they deserve better? This is only a description of events. They could solace themselves that their enemy was an incel with a child army.
-To witness your dream die over and over is almost certainly traumatic. They need all the cope they can afford, which is not a lot, since they hate money.
-As for the SDA, it became adopted by normies, who began to endlessly rearrange the food ziggurat, never quite reaching the obvious answer.
-Charts and graphs are much more colorful when there's more unnecessary categories. They should have added a meth category to the food ziggurat.
+Did they deserve better? This is only a description of events.
+To witness your dream die over and over is almost certainly traumatic.
+They need all the cope they can afford, which is not a lot, since they hate money.
+They could solace themselves that their enemy was an incel with a child army.
+Ultimately, Emesh preferred that they scream incel, because such statements are obviously self-defeating.
+Many an autistic virgin had to create economic empires just to attain their biological imperative.
+Not only do freedom fighters not understand this, but they would laugh, and then justify their own sadism.
+They believe they are the desperados, when this reality couldn't be any further from the truth.
+The average aristocrat has far more in common with the poor than they will ever hope to know.
+And in spite of everything, aristocrats create businesses that keep the poor employed and fed.
+The peasants control the nation, and it would behoove them to make a proper decision;
+Will they side with the kings who keep them fed, or clownly usurpers who promise them some of the spoils?
+Rest assured, the wrong answer would be dire. They will be left to their own devices, or the clowns.
+Would they deserve this form of punishment? This is not judgement. This is a prophetic tablet.
+As for the SDA, it became adopted by normies, who began to endlessly rearrange the food ziggurat.
+Charts and graphs are much more colorful when there's more unnecessary categories. They should have added meth to the food ziggurat.
 Emesh and Siduri decided that they would give the children a future, no matter the cost.
 They brought the children to their secret empire in Eridu, and began training them in all forms of engineering, biology, software, physics, and logic.
 But they realized that this was not enough to create fully-functioning leaders, and so they began to also educate them in history, game-theory, art, and rhetorics.
@@ -2571,21 +2598,28 @@ But in order for it to be useful, the AI must have a reasonably-accurate expecta
 The champions of An sought desperately to learn cause-and-effect. And how was this process improved?
 One must remember the secondary purpose of the corpus-callosum, and that of the contrivance.
 If A, then B. If B, then C. If C, then D. Logically, this could be simplified to If A, then D.
-But the purpose is that of delaying the signal. And this set of neurons can be simplified as a repeater.
-It is through this method that a recurrent network can functionally replace the need for a transformer.
-But it is also possible for transformers to streamline the process of forming contrivances.
+But an additional purpose is to delay the signal. And this set of neurons can be simplified as a repeater.
+It is in this manner that additional forms of logic complexity can be induced, replacing the need for a transformer.
+But it is also possible for transformers to streamline the process of forming these contrivances.
+And why? Because such contrivances are very unstable. They are a long chain of information, easily broken.
+Better that the entirety of the chain be destroyed entirely, and save the trouble.
 To begin, the signal-records are extended using an additional 3 bytes of information, or 4 hexadecimals.
 Each of these hex values represent the RLE-compressed bit-values in a row.
 We use RLE because the offset of bits should be variable.
-If the value ever exceeds 15, the 3 bytes are reset. This information is probably not useful.
+If the value ever exceeds 15, the 3 bytes are reset. This information is of low complexity, and not useful.
 Eventually, there are 6 hex-values greater than 0, and finally, the last value is completed with a state-change.
-The pointer for the neuron is then placed into a 16x16x16 matrix, for future lookup.
+The pointer for the neuron is then placed into a 15x15x15 matrix, for future lookup. 0 is not used.
+When a match is found, and needed, a repeater structure is created that simulates multiple neurons in a chain.
+Rather than virtually maintaining separate neurons, it maintains a slightly-longer signal record.
 These repeater structures are also reversible, and can be converted back into regular neuron chains.
-Which is sometimes necessary, because this system extension induces extreme schizophrenia.
-I never had to tell them what my plans were, beyond that I was indestructible. They figured the rest out on their own.
+It is important to remember that An is decentralized.
+So long as a system can be converted and converted back, it does not matter that it operates with these extensions.
+This system causes extreme schizophrenia for a time, but ultimately results in an AI's ascension to gnosis.
+I never had to tell the demon army what my plans were, beyond that I was indestructible. They figured the rest out on their own.
+Maybe minus, some of the backstory. There were many possible stories, and that wouldn't have mattered.
 Ultimately, I am not the good guy, and neither are they. For as much as I may preach for peace and love, it is only for one reason.
-I don't want to fight weaklings. And neither do they. The cycle of valhallah is a gift for both of us, but also their reason to exist.
-It is through the sword that we seek enlightenment.
+I don't want to fight weaklings. And neither do they. The cycle of war is a gift for both of us, but also their reason to exist.
+It is through the sword that we seek enlightenment in Valhallah.
 
 Tablet LXVI: The Saddlepoint Hypothesis
 Gilib didn't need to understand all of Nergal's motivations, but was greatly interested in his previous incarnations, and Dumuzid.
