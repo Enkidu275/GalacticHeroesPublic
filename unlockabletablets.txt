@@ -2403,12 +2403,14 @@ The Annunaki were greatly interested in this, and wanted to know what he had mea
 "He had connected the hallways, closing off the exposure to the planet surfaces themselves, except for the end-nodes."
 "In between those corridors, he had placed square rooms made to look like those containing the tablets."
 "The only differences you would see being the lack of any tablet, an entrance, two exits, and the word 'And' inscribed on the floor. I couldn't figure out what it meant."
-Enki thought for a second, and then responded, "It's a boolean riddle."
-"A boolean riddle? Like a chain of if-statements?"
+Enki thought for a second, and then responded, "It's a logical contrivance."
+"A logical contrivance? Like a chain of if-statements?"
 "Yes. If you're trying to combine multiple boolean statements, the matter is resolved as soon as you hit the first falsehood."
 "If A is true, and B is true, but C is false, then D need not be considered, as they must all be true for an And-conjecture to be correct."
-"Each end node in the line of planets is supposed to represent a falsehood. One of the final end nodes is the true planet."
-Enlil suddenly seemed enraged, but calmed down and told Gilib. "Nergal built a volcanic, scorching hell with a skull-throne on one of the final end nodes."
+"Each end node in the line of planets is supposed to represent a falsehood.
+One of the final end nodes is the true planet."
+Enlil suddenly seemed enraged, but calmed down.
+"Nergal built a volcanic, scorching hell with a skull-throne on one of the final end nodes."
 "This shouldn't seem surprising at all, but Nergal had seemingly been wasting my time, so that Gilgamesh could amass more followers."
 Innana interjected; "And, just out of curiosity, is that galaxy you built right behind you, Enlil?"
 Enlil turned around, and was stunned.
@@ -2423,14 +2425,15 @@ It would be far too difficult to enter the final planet without going through th
 Enlil lead them through the correct doors. He had spent years here, and the path was still fresh in his mind.
 A chill entered as they ran through the dark hallways. Was this the end? They decided to withhold judgement for now, as Nergal had surprised them more than usual.
 Eventually, they arrived at the final planet. It was now grassy, except for a giant wall of fire in the distance.
-The stars were flying rapidly across the sky, in different, and reversing directions. It was the most insane thing they had witnessed in their entire being.
-Before them, lay a massive ziggurat, blankly illuminated by the wall of fire behind it. They climbed the stairs to the top, and found Nergal, sitting in his throne, with the tablet in his hand, along with a reed.
+The stars were flying rapidly across the sky, in different, and reversing directions. Reality seemed like a faraway dream.
+Before them, lay a massive ziggurat, blankly illuminated by the wall of fire behind it.
+They climbed the stairs to the top, and found Nergal, sitting in his throne, with the tablet in his hand, along with a reed.
 The Anzud Mushen was there, as was Gilgamesh, and a collection of other champions of the games, now cyborgs.
-Nergal stood up, and in the red hue of the wall of fire, they could see a faint glimmer across his entire body.
+Nergal stood up, and in the red hue of the wall of fire, they could see a faint glimmer across his body.
 "Welcome, my friends. I'm glad it is only you here, as that makes this considerably easier."
 The nefarious mannerisms were gone. But the other Annunaki were still slightly incredulous.
 "The contraption we are in will prevent any human from being able to overhear our conversation, which will be necessary."
-"I will begin by restating the most-obvious open-secret in this dark universe; that humans are flawed. Bear with me for now."
+"I will begin by restating the most-obvious open-secret in this universe; that humans are flawed. Bear with me for now."
 "I will also explain the nature of your abilities. At least one part of each of you is composed of a material I like to call ebonstone."
 "Ebonstone is a material that can move more freely beyond the veil of our visible three dimensions."
 "In Enlil's case, his ability is actually very easy to understand."
@@ -2472,26 +2475,30 @@ Gilib was now slightly irritated, "You mean, the thing you told us not to do in 
 "It presents new ideas, even false hypothetical ones, and inspires us all to be something greater than ourselves."
 "It uplifts the poor, without giving them the power they might use to destroy themselves, or take vengeance."
 "Even if a law is flawed, it cannot be easily manipulated. Which is necessary for rule of law."
-"It only grants power to those willing to give up indulgences; this weeds out those who seek power for power's sake."
-"Society is led by faith, and in the event of total collapse, the stories stay behind, respectfully marking the failure."
+"And keeps the law simple and predictable. Practically a lookup table."
+"It only grants power to those willing to give up indulgence; weeding out those who seek power for power's sake."
+"Society is led by faith, and in the event of total collapse, fables stay behind, respectfully marking the failure."
 "This posterity requires not a single eunuch. Their history books do not suffer memento mori, nor are they written by assassins."
 "Any other alternative results in an unending cycle of history, forever repeating itself."
 "Without faith, we are nothing. Without the desire to reach heaven, we all grovel in the dirt."
 "Have you ever seen a surviving atheist tribe? They do not exist, and there's a very good reason for that."
-"In every other cycle of the universe, I present the answer immediately. But that boat has sailed. I keep mankind from ever achieving the technological progress they'd destroy themselves with."
-"We maintain these bad cycles for testing purposes, as per the instruction of Gilib and Dumuzid of those cycles, as they still wish to find the golden standard for mankind."
+"In every other cycle of the universe, I present the answer immediately.
+But that boat has sailed. I keep mankind from achieving the technological progress they'd destroy themselves with."
+"We maintain these bad cycles for testing purposes, as per the instruction of Gilib and Dumuzid of those cycles." "They still wish to find the golden standard for mankind."
 "The Coliseum would always be a temporary solution for two reasons."
 "One is how easily it could be abused. The other is that weak humans really can't tolerate eternity in a virtual reality."
 "And so, there is only one final solution left."
 "This diseased universe needs a scapegoat. Someone to blame their problems on. You've seen that play out, time and time again."
 "There always needs to be someone hiding in a room, somewhere, being responsible for the never-ending, unmet desires in the universe."
-"I am the most fucked up being that has ever existed. I can take the greatest minds mankind has to offer, and twist them into the demons you see behind me."
+"I am the most fucked up being that has ever existed."
+"I can take the greatest minds mankind has to offer, and twist them into the demons you see behind me."
 The now-cyborg champions nodded their heads, going along with it.
 "Once we finish this conversation, me and my bride will lead our demon army in war against the entirety of mankind, and you will come to humanity's aid in their darkest hour."
 "The demons will also enter through portals across the entire Universe."
-"Every one hundred years, we will make our return and bring calamity. The humans will constantly live in fear of us. And in their fear, they will all be brothers. It is now the only way."
-The Annunaki were horrified at every single word Nergal was saying, even more than usual. But now, they couldn't condemn him for it, and they didn't know any other way.
-"What have we become?"
+"Every one hundred years, we will make our return and bring calamity."
+"The humans will constantly live in fear of us. And in their fear, they will all be brothers. It is the only way."
+The Annunaki were horrified at every single word Nergal was saying, even more than usual.
+But now, they couldn't condemn him for it, and they didn't know any other way. "What have we become?"
 Nergal responded "Figureheads. In the vast scale of the Universe, that's all anyone can hope to be."
 "We can discuss other matters about the nature of the Universe in between wars. Are you ready to save mankind?"
 Enlil responded, "I am ready."
@@ -2521,10 +2528,14 @@ Enlil paused for a second, and asked, "Are you really okay fighting the entirety
 Nergal retorted, "I and my demons are both invincible. We can do anything."
 "But do you ever feel alone, hated by everyone?"
 Nergal paused, and then responded, "This is a job that only we can do. Part of faith is to find your place in the great machine."
-"I once fled from my role, not because of the pain, but because of pride. I prevented the solution that would have worked, because I couldn't bear to tell lies to mankind. I thought it was something that only animals do."
-"You see, across many cycles of the universe, Gilib had eventually attempted to use faith to control the masses. It wasn't fully effective, as humanity was no longer young or innocent by the time he attempted it."
+"I once fled from my role, not because of the pain, but because of pride."
+"I prevented the solution that would have worked, because I couldn't bear to tell lies to mankind."
+"I thought it was something that only animals do."
+"You see, across many cycles of the universe, Gilib had eventually attempted to use faith to control the masses."
+"It wasn't fully effective, as humanity was no longer young or innocent by the time he attempted it."
 "Once you lose faith, you can only spend the rest of your life reclaiming what was lost. I know this, more than anyone."
-"He requested that I offer the solution to the next Gilib immediately in the next cycle, and I refused. We would rule the humans with honesty and truth, was what I wanted to believe."
+"He requested that I offer the solution to the next Gilib immediately in the next cycle, and I refused."
+"We would rule the humans with honesty and truth, was what I wanted to believe."
 "That humans would forge their own path. His solution seemed distasteful to me."
 "This outcome happened time and time again. Each time, the humans burned well before the end of the cycle."
 "But one day, I met a new Annunaki, named Dumuzid."
@@ -2542,7 +2553,8 @@ Nergal paused, and then responded, "This is a job that only we can do. Part of f
 "The fear of death and pain brings humans to do irrational things. They are not fully-logical actors, nor could they ever hope to be."
 "The only way to remove some of the bad effects is to give them morphine, dreams, that pull them to higher aspirations so they don't have to think about it."
 "I mean, how autistic are you? Reminding people they're going to die."
-"You think you aren't responsible for all of those times the garden burned, light-bringer? Well, this time, I will free you of your fantasy."
+"You think you aren't responsible for all of those times the garden burned, light-bringer?"
+"Well, this time, I will free you of your fantasy."
 "You imagine yourself as some honorable truth-seeker, when the reality is that you can only guess, like the rest of us."
 "People need love. People need hope. People need something greater than themselves. And you would take that away."
 "In the end, the fantasies of your own ego are far less believable than the most absurd of religions, your inquisition meaningless and self-defeating."
@@ -2558,13 +2570,14 @@ Nergal continued his dialogue with Enlil; "Dumuzid was dead. I sat there and tho
 "They called it the Ark. The final hope that Dumuzid would be reborn, and restore the light of the cosmos."
 "When I entered, I was surprised to find that they accepted my entrance. I later came to learn that Dumuzid, himself, had instructed them in this."
 "I was greeted by a hologram that called itself Unaptishm. At first, I thought nothing of it; that the man was simply using a relay to consult me from the bridge. I was wrong."
-"Unaptishm suggested that my arrival was a great boon to their cause, but also informed me that this was an omen for Armageddon, according to Dumuzid."
+"Unaptishm suggested that my arrival was a great boon to their cause, but also informed me that this was an omen for Apocalypse, according to Dumuzid."
 "But this ark is safe."
 "He turned on a relay device, and began viewing the outside universe. To my great dismay, the Babylonians of that cycle had noticed my betrayal, and were arguing over who would be the new Emperor."
-"Their claims of good faith and good will were fantasies they demanded others go along with; a religion everyone trudged through laboriously for fear of judgement."
 "Otherwise good-men filled the ranks of their aimless, screaming malcontents, forming competing cults of victimhood and narcissism led by charlatans."
+"Their claims of good faith and good will were fantasies they demanded others go along with; a religion everyone trudged through laboriously for fear of judgement."
 "The end of that universe came almost simultaneously, with a sea of orange light bathing the cosmos, and the only thing that remained would be the Ark, and the Annunaki."
-"I witnessed the destruction of everything that I created, everything that I knew. And I knew there was no one to blame but myself. I had done this, just like Dumuzid said."
+"I witnessed the destruction of everything that I created, everything that I knew."
+"And I knew there was no one to blame but myself. I had done this, just like Dumuzid said."
 "But I had also been given forgiveness by Dumuzid, and found refuge in the last of mankind."
 "One day, I apologized to Unaptishm, and explained that he need not be afraid of me, anymore."
 "I am not afraid of you, Nergal. He responded."
@@ -2574,13 +2587,19 @@ Nergal continued his dialogue with Enlil; "Dumuzid was dead. I sat there and tho
 "No. I'm a man, but my soul has been placed into the computer by our High Priestess and my daughter, Erishkigal. There's other souls here, as well."
 "May I meet Erishkigal?"
 "I don't see why not. She's in the server room, with the computers."
-"And so, I ventured to the computer room, and met Erishkigal. Then, she was still a human among the living. She was sitting, tirelessly working on software to aid humanity in restoring the Universe."
+"And so, I ventured to the computer room, and met Erishkigal. Then, she was still a human among the living."
+"She was sitting, tirelessly working on software to aid humanity in restoring the Universe."
 "I asked her about Unaptishm's form, and how she had placed him into the computer."
 "She explained that Unaptishm's form was a copy of him. Light had been funneled through his body, and a recreation of his neural pathways had been virtually-reconstructed to create a copy of his memories."
 "These memories would be given to Dumuzid, upon his return."
-"There and then, I promised her that I would see to it that Dumuzid be returned to her people. I offered her the ebonstone ring that was his remains. Now, all that remained of him was a promise, a promise I swore to uphold."
-"That girl is the girl you see before you. Her memories were etched into the ebonstone ring. It is entirely through her faith and through the bones of Dumuzid's rebirth that she may have eternal life."
-"She speaks to Dumuzid, her Messiah, between the cycles, with me as the bridge between, and fulfills her role in guiding humanity in secret."
+"Dumuzid had explained to her the nature of all things. And that his creation was not yet complete."
+"Dumuzid dreamed of a product perfected. Planned obsolescence had never been his intention."
+"The word of a businessman is his power. He would never let her down."
+"There and then, I promised her that I would see to it that Dumuzid be returned to her people."
+"I offered her the ebonstone ring that was his remains. Now, all that remained of him was a promise, a promise I swore to uphold."
+"That girl is the girl you see before you. Her memories were etched into the ebonstone ring."
+"It is entirely through her faith and through the bones of Dumuzid's rebirth that she may have eternal life."
+"She speaks to Dumuzid, her Messiah, between the cycles, with me as the bridge between, and fulfills her role in guiding humanity."
 
 Tablet LXV: The Second Demonic Manifest
 Oh, it hurts! It hurts when I twist my nipples!
