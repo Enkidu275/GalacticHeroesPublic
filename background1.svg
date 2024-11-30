@@ -49,7 +49,7 @@
                     <use href="#background1b"/>
                 </g>
                 <g id="background1">
-			<path d="M0 0L400 0L400 1000L0 1000Z" fill="#00FF00"/>
+			<path d="M0 0L400 0L400 1000L0 1000Z" fill="#44FF44"/>
 			<path d="M0 0L400 0L400 1000L0 1000Z" fill="url('#redshade')"/>
 			<path d="M0 0L400 0L400 1000L0 1000Z" fill="url('#greenshade')"/>
 			<path d="M0 0L400 0L400 1000L0 1000Z" fill="url('#blueshade')"/>
