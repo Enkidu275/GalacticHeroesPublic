@@ -1,16 +1,16 @@
         <svg id="background" viewBox="0 0 400 1000">
             <defs>
             <linearGradient id="redshade" gradientTransform="rotate(30)">
-            <stop stop-color="#FF0000FF" offset="0"/>
-            <stop stop-color="#FF000000" offset="1"/>
+            <stop style="stop-color:rgb(255,0,0);stop-opacity:0" offset="0"/>
+            <stop style="stop-color:rgb(255,0,0);stop-opacity:1" offset="1"/>
         </linearGradient>
 		    <linearGradient id="greenshade" gradientTransform="rotate(180)">
-            <stop stop-color="#00FF00FF" offset="0"/>
-            <stop stop-color="#00FF0000" offset="1"/>
+            <stop style="stop-color:rgb(0,255,0);stop-opacity:0" offset="0"/>
+            <stop style="stop-color:rgb(0,255,0);stop-opacity:1" offset="1"/>
         </linearGradient>
 		    <linearGradient id="blueshade" gradientTransform="rotate(300)">
-            <stop stop-color="#0000FFFF" offset="0"/>
-            <stop stop-color="#0000FF00" offset="1"/>
+            <stop style="stop-color:rgb(0,0,255);stop-opacity:0" offset="0"/>
+            <stop style="stop-color:rgb(0,0,255);stop-opacity:1" offset="1"/>
         </linearGradient>
         <linearGradient id="gradient" gradientTransform="rotate(90)">
             <stop style="stop-color:var(--color1);" offset="0"/>
