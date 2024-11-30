@@ -1,13 +1,16 @@
         <svg id="background" viewBox="0 0 400 1000">
             <defs>
-            <linearGradient id="rainbow" gradientTransform="rotate(90)">
-            <stop stop-color="#FF0000" offset="0"/>
-            <stop stop-color="#DD6600" offset="0.17"/>
-            <stop stop-color="#999900" offset="0.33"/>
-            <stop stop-color="#00AA00" offset="0.5"/>
-            <stop stop-color="#7777FF" offset="0.63"/>
-            <stop stop-color="#BB00BB" offset="0.87"/>
-            <stop stop-color="#FF0000" offset="1"/>
+            <linearGradient id="redshade" gradientTransform="rotate(30)">
+            <stop stop-color="#FF0000FF" offset="0"/>
+            <stop stop-color="#FF000000" offset="1"/>
+        </linearGradient>
+		    <linearGradient id="greenshade" gradientTransform="rotate(180)">
+            <stop stop-color="#00FF00FF" offset="0"/>
+            <stop stop-color="#00FF0000" offset="1"/>
+        </linearGradient>
+		    <linearGradient id="blueshade" gradientTransform="rotate(300)">
+            <stop stop-color="#0000FFFF" offset="0"/>
+            <stop stop-color="#0000FF00" offset="1"/>
         </linearGradient>
         <linearGradient id="gradient" gradientTransform="rotate(90)">
             <stop style="stop-color:var(--color1);" offset="0"/>
@@ -46,6 +49,10 @@
                     <use href="#background1b"/>
                 </g>
                 <g id="background1">
+			<path d="M0 0L400 0L400 1000L0 1000Z" fill="#FFF"/>
+			<path d="M0 0L400 0L400 1000L0 1000Z" fill="url('#redshade')"/>
+			<path d="M0 0L400 0L400 1000L0 1000Z" fill="url('#greenshade')"/>
+			<path d="M0 0L400 0L400 1000L0 1000Z" fill="url('#blueshade')"/>
                     <use href="#background1c"/>
                     <use href="#background1c" transform="scale(-1,1)" transform-origin="center"/>
                 </g>
